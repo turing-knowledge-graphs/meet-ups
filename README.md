@@ -2,6 +2,7 @@
 
 - 2nd Meet-up: July 16 2021
   - Keynote: [Prof Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) (University of Edinburgh). *Building and Interrogating Knowledge Graphs Using Natural Language*.
+  - [Recordings](https://drive.google.com/drive/folders/12zwGUdHqyODx4sdyG9dxkbzSorm0HkWn?usp=sharing) of the meet-up.
   
 - 1st Meet-up: March 15 2021
   - Keynote: [Denny Vrandečić](https://www.linkedin.com/in/vrandecic/) (Wikimedia Foundation). *Knowledge beyond the Graph - Building a multilingual Wikipedia*.  
