@@ -1,7 +1,7 @@
 ## Meet-ups
 
-- 3rd Meet-up: November 12, 2021
-  - Keynote: [Alessandra Russo](https://www.imperial.ac.uk/people/a.russo) (Imperial College London).
+- 3rd Meet-up: November 19, 2021
+  - Keynote: [Alessandra Russo](https://www.imperial.ac.uk/people/a.russo) (Imperial College London). *Logic-based Machine Learning: recent advancements and future directions.*
 
 - 2nd Meet-up: July 16, 2021
   - Keynote: [Prof Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) (University of Edinburgh). *Building and Interrogating Knowledge Graphs Using Natural Language*.
