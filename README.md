@@ -1,6 +1,6 @@
 ## Meet-ups
 
-- 3rd Meet-up: November 19, 2021
+- 3rd Meet-up: November 19, 2021. [Registration](https://www.eventbrite.co.uk/e/community-meetups-of-the-knowledge-graphs-ig-at-the-alan-turing-institute-tickets-196145706087?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb)
   - Keynote: [Prof. Alessandra Russo](https://www.imperial.ac.uk/people/a.russo) (Imperial College London). *Logic-based Machine Learning: recent advancements and future directions.*
 
 - 2nd Meet-up: July 16, 2021
