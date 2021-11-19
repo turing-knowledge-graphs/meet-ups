@@ -1,7 +1,8 @@
 ## Meet-ups
 
-- 3rd Meet-up: November 19, 2021. [Registration](https://www.eventbrite.co.uk/e/community-meetups-of-the-knowledge-graphs-ig-at-the-alan-turing-institute-tickets-196145706087?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb).
-  - Keynote: [Prof. Alessandra Russo](https://www.imperial.ac.uk/people/a.russo) (Imperial College London). *Logic-based Machine Learning: recent advancements and future directions.*
+- 3rd Meet-up: November 19, 2021 
+  - Keynote: [Prof. Alessandra Russo](https://www.imperial.ac.uk/people/a.russo) (Imperial College London). *Logic-based Machine Learning: recent advancements and future directions*.
+  - [Recordings and slides](https://drive.google.com/drive/folders/1zOvV0J_UEI-OW3qtmKOm0xaLJh78m__G?usp=sharing) of the meet-up.
 
 - 2nd Meet-up: July 16, 2021
   - Keynote: [Prof. Mark Steedman](https://homepages.inf.ed.ac.uk/steedman/) (University of Edinburgh). *Building and Interrogating Knowledge Graphs Using Natural Language*.
