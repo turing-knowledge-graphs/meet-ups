@@ -1,8 +1,8 @@
 ## 1st Annual Symposium of the Knowledge Graphs IG at the Alan Turing Institute
 
 - **When:** June 17th 2022 (10am-4pm BST), at the [Alan Turing Institute](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs) (Enigma room).
-- **Format:** up to 45 participants in person and broadcasted online.
-- **Registration:** Registration closes June 3rd, 2022. Because of space constraints, maximum 2 people per organisation may attend in person. 
+- **Format:** up to 45 participants in person and broadcasted online. 
+- **Registration:** via [eventbrite](https://www.eventbrite.co.uk/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277). In person registration closes on June 3rd, 2022. Because of space constraints, maximum 2 people per organisation or group may attend in person. 
 
 ## Agenda
 
