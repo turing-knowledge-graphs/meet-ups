@@ -7,8 +7,8 @@
 
 ### Meet-ups
 
-- 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)
-  - Keynote: [Prof. Ruben Verbough](https://ruben.verborgh.org/) (Ghent University, Belgium).
+- 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)  
+  - Keynote: [Prof. Pieter Colpaert](https://pietercolpaert.be/) (Ghent University, Belgium). The original keynote by [Prof. Ruben Verbough](https://ruben.verborgh.org/) has been postponed.
   - Registration via [eventbrite](https://www.eventbrite.com/e/community-meetups-of-the-knowledge-graphs-ig-at-the-alan-turing-institute-tickets-299051179127).
 
 
