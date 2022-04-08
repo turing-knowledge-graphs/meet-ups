@@ -1,4 +1,4 @@
-[Events in eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-group-256569)
+Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-group-256569).
 
 ### Symposiums
 - 1st Symposium: June 17th 2022 (10am-4pm BST), at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
