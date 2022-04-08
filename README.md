@@ -10,7 +10,8 @@
 ### Meet-ups
 
 - 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)  
-  - Keynote: [Prof. Pieter Colpaert](https://pietercolpaert.be/) (Ghent University, Belgium). The original keynote by [Prof. Ruben Verbough](https://ruben.verborgh.org/) has been postponed.
+  - Keynote: [Prof. Pieter Colpaert](https://pietercolpaert.be/) (Ghent University, Belgium). *What happens before the 
+Knowledge Graph’s querying API*. Due to COVID19, the original keynote by [Prof. Ruben Verbough](https://ruben.verborgh.org/) has been postponed.
   - [Recordings and slides](https://drive.google.com/drive/folders/1QPhid6E6eUbslk49E2d7DcgUxEpCoZg0?usp=sharing) of the meet-up.
 
 
