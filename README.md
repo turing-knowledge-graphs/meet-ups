@@ -1,3 +1,5 @@
+[Events in eventbrite](https://www.eventbrite.co.uk/manage/collections/256569/events)
+
 ### Symposiums
 - 1st Symposium: June 17th 2022 (10am-4pm BST), at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
   - Format: up to 45 participants in person, broadcasted online.
@@ -9,7 +11,7 @@
 
 - 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)  
   - Keynote: [Prof. Pieter Colpaert](https://pietercolpaert.be/) (Ghent University, Belgium). The original keynote by [Prof. Ruben Verbough](https://ruben.verborgh.org/) has been postponed.
-  - Registration via [eventbrite](https://www.eventbrite.com/e/community-meetups-of-the-knowledge-graphs-ig-at-the-alan-turing-institute-tickets-299051179127).
+  - [Recordings and slides](https://drive.google.com/drive/folders/1QPhid6E6eUbslk49E2d7DcgUxEpCoZg0?usp=sharing) of the meet-up.
 
 
 - 3rd Meet-up: November 19, 2021 (online)
