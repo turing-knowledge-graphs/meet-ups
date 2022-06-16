@@ -14,6 +14,13 @@ we invite all participants interested in collaborations to register their intere
 
 10:15 - 11:00 Keynote by [Soeren Auer](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/soeren-auer), Director TIB, Professor of Data Science and Digital Libraries at Leibniz Universität Hannover
 
+ > **Title**: Facilitating causality in science with cognitive knowledge graphs
+
+ > **Abstract**: Knowledge graphs are meanwhile established representation forms for heterogeneous data and knowledge. However, knowledge graphs are still relatively simple structures with limited possibilities to represent and efficiently manage more complex structures, provenance, evolution or different levels of granularity. In this talk we will introduce the concept of cognitive knowledge graphs, which use richer atomic base entities - graphlets as constituents. With the Open Research Knowledge Graph (ORKG), we present an example of such a cognitive knowledge graph, which closely intertwines human and machine intelligence with the aim of semantically representing research contributions. As a result, the ORKG provides a digital research infrastructure enabling researchers and other stakeholders to obtain better oversight over the millions of annual research publications and better machine assistance for analysing the wealth of scholarly knowledge.
+
+ 
+
+
 11:00 - 11:15 Break
 
 11:15 - 12:30 Pitches from participants
@@ -25,7 +32,14 @@ we invite all participants interested in collaborations to register their intere
 - Collaboration sandbox
 
 14:15 - 15:30 Keynote by [Susanna-Assunta Sansone](https://eng.ox.ac.uk/people/susanna-assunta-sansone/), Professor of Data Readiness, Associate Director, Oxford e-Research Centre, University of Oxford; 
-and [Philippe Rocca-Serra](https://eng.ox.ac.uk/people/philippe-rocca-serra/), Associate Member of Faculty, Oxford e-Research Centre, University of Oxford
+and [Philippe Rocca-Serra](https://eng.ox.ac.uk/people/philippe-rocca-serra/), Associate Member of Faculty, Oxford e-Research Centre, University of Oxford.
+
+ > **Title**: FAIR, community standards and data FAIRification: components and recipes
+
+ > **Abstract**: The FAIR Principles have succeeded to unit stakeholders world-wide behind a common concept: good data management under common standards. However, FAIR is aspirational and putting FAIR into practice is work in progress, and it "takes a village".  We will provide an overview of two community-driven resources, and how they contribute to the necessary guidelines to turn FAIR into reality. FAIRsharing (https://fairsharing.org), which focuses on promotive the value and use of community standards and terminologies, key elements of FAIR; and the FAIR Cookbook (https://faircookbook.elixir-europe.org), which leverages the expertise of data professional in academia and industry to deliver recipes that address all operational aspects of making and keeping data FAIR. 
+
+
+
 
 15:30 - 15:45 Closing
 
