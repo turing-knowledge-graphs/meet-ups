@@ -17,7 +17,7 @@ we invite all participants interested in collaborations to register their intere
 11:00 - 11:15 Break
 
 11:15 - 12:30 Pitches from participants
-- Short 3 minutes presentations about interests and potential collaborations.
+- Short (5 minutes) presentations about interests and potential collaborations.
 
 12:30 - 13:15 Lunch
 
