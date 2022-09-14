@@ -10,6 +10,9 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Meet-ups
 
+- 5th Meet-up: October, 2022
+
+
 - 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)  
   - Keynote: [Prof. Pieter Colpaert](https://pietercolpaert.be/) (Ghent University, Belgium). *What happens before the 
 Knowledge Graph’s querying API*. 
