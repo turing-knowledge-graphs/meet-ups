@@ -10,9 +10,9 @@ The focus of this first symposium is to create a sandbox for future collaboratio
 Following the series of meetups we had in the past year, in which we discussed topics such as teaching curricula, use cases, and applications of knowledge graphs, 
 we invite all participants interested in collaborations to register their interest to do short pitches and attend the matchmaking session.
 
-10:00 - 10:15 Opening by the IG chairs
+10:00 - 10:15 Opening by the IG chairs. [(Slides)](https://drive.google.com/file/d/1IBm0kDZHBSvXLRS4CC4rKe5VjGkLHhEw/view?usp=sharing)
 
-10:15 - 11:00 Keynote by [Soeren Auer](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/soeren-auer), Director TIB, Professor of Data Science and Digital Libraries at Leibniz Universität Hannover
+10:15 - 11:00 Keynote by [Soeren Auer](https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/soeren-auer), Director TIB, Professor of Data Science and Digital Libraries at Leibniz Universität Hannover. [(Slides online)](https://www.slideshare.net/soeren1611/knowledge-graph-research-and-innovation-challenges) [(Slides PDF)](https://drive.google.com/file/d/1_LP5GMPx7YJ49TG0cUB-hOQjC8dajuFh/view?usp=sharing)
 
  > **Title**: Facilitating causality in science with cognitive knowledge graphs
 
@@ -23,7 +23,7 @@ we invite all participants interested in collaborations to register their intere
 
 11:00 - 11:15 Break
 
-11:15 - 12:30 Pitches from participants
+11:15 - 12:30 Pitches from participants [(Slides)](https://docs.google.com/presentation/d/1wNIP0iWx-ObHP6bzyL5V2hxXhwCtdwkq/edit?usp=sharing&ouid=107320364354662189717&rtpof=true&sd=true)
 - Short 3 minutes presentations about interests and potential collaborations.
 
 12:30 - 13:15 Lunch
@@ -41,7 +41,7 @@ and [Philippe Rocca-Serra](https://eng.ox.ac.uk/people/philippe-rocca-serra/), A
 
 
 
-15:30 - 15:45 Closing
+15:30 - 15:45 Closing [(Slides)](https://drive.google.com/file/d/1IBm0kDZHBSvXLRS4CC4rKe5VjGkLHhEw/view?usp=sharing)
 
 
 
