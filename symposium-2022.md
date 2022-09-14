@@ -33,6 +33,7 @@ we invite all participants interested in collaborations to register their intere
 
 14:15 - 15:30 Keynote by [Susanna-Assunta Sansone](https://eng.ox.ac.uk/people/susanna-assunta-sansone/), Professor of Data Readiness, Associate Director, Oxford e-Research Centre, University of Oxford; 
 and [Philippe Rocca-Serra](https://eng.ox.ac.uk/people/philippe-rocca-serra/), Associate Member of Faculty, Oxford e-Research Centre, University of Oxford.
+[(Slides online)](https://www.slideshare.net/SusannaSansone/fair-community-standards-and-data-fairification-components-and-recipes) [(Slides PDF)](https://drive.google.com/file/d/1ykw166vahzeEguDmF_4tL9k2DLzS1c9U/view?usp=sharing)
 
  > **Title**: FAIR, community standards and data FAIRification: components and recipes
 
