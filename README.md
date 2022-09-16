@@ -10,7 +10,8 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Meet-ups
 
-- 5th Meet-up: October, 2022
+- 5th Meet-up: tentative on October 27 (12pm-5pm BST), 2022 (in-person, London)
+  - Meet-up and ISWC broadcasting 
 
 
 - 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)  
