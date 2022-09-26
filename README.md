@@ -2,10 +2,10 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event:
 
-- 5th Meet-up: *October 27* (11am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
+- 5th Meet-up: **October 27** (11am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
   - Participation: up to 45 (in-person) attendees and some sessions broadcasted online. 
   - Registration via eventbrite (TBA)
-  - Format: Meet-up and following together the last sessions of the [International Semantic Web Conference - ISWC (Virtual)}(https://iswc2022.semanticweb.org/).
+  - Format: Meet-up and following together the last sessions of the [International Semantic Web Conference - ISWC (Virtual)](https://iswc2022.semanticweb.org/).
   - Tentative agenda (depending on the ISWC program):
     - 11am: Intro from organisers and a talks from participants
     - 12pm: Lunch and networking
