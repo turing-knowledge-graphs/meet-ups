@@ -2,14 +2,14 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event:
 
-- 5th Meet-up: **October 27** (11am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
+- 5th Meet-up: **October 27** (10:30am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
   - Participation: up to 45 (in-person) attendees and some sessions broadcasted online. 
   - Registration for in person attendees via [eventbrite](https://www.eventbrite.co.uk/e/5th-meetup-knowledge-graphs-ig-at-the-alan-turing-institute-tickets-427051361117)
     - Fee: £5 to be given to the [Oxford Health Charity](https://www.justgiving.com/fundraising/knowledge-graphs-turing) (please include your name as in the eventbrite registration).
   - Format: Meet-up and attending together the last sessions of the [International Semantic Web Conference - ISWC (Virtual)](https://iswc2022.semanticweb.org/).
   - Agenda:
-    - 10:30-11:00: Arrival, Set-up, Coffee
-    - 11:00-12:00: Introduction from organisers and talks from participants
+    - 10:30-11:00: **Arrival, Set-up, Coffee**
+    - 11:00-12:00: **Introduction from organisers and talks from participants** (3 min + 2 Q&A)
       - Jiaoyan	Chen (University of Oxford): Knowledge Graph Construction and Curation
       - Zhongtian	Sun (Durham University): Graph Representation Learning and its Application
       - George Konstantinidis (University of Southampton): Automated Data Sharing Contracts
@@ -21,12 +21,12 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
       - Paul Cripps (Dstl): A phenomenological, observational approach to semantic knowledge graphs
       - Terence	Egbelo (University of Sheffield): Knowledge graph-based inference for small molecule drug discovery   
     - 12:00-13:00: Lunch and Networking
-    - 13:00-14:00: ISWC Keynote.     
-      - ["Circular Health"](https://iswc2022.semanticweb.org/index.php/keynote-speakers/#ilaria). Ilaria Capua — One Health Center of Excellence, University of Florida 
+    - 13:00-14:00: **ISWC Keynote**.     
+      - ["Circular Health"](https://iswc2022.semanticweb.org/index.php/keynote-speakers/#ilaria). **Ilaria Capua** — One Health Center of Excellence, University of Florida 
     - 14:00-14:10: Break
-    - 14:10-15:10: ISWC Panel: ["Knowledge Graphs for The Physical World: What is Missing?"](Panel: “Knowledge Graphs for The Physical World: What is Missing?”)
+    - 14:10-15:10: **ISWC Panel**: ["Knowledge Graphs for The Physical World: What is Missing?"](https://iswc2022.semanticweb.org/index.php/panel/)
     - 15:10-15:20: Break
-    - 15:20-16:00: ISWC Closure or Networking    
+    - 15:20-16:00: **ISWC Closure or Networking**    
 
 
 ### Symposiums
