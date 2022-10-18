@@ -15,7 +15,6 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
       - George Konstantinidis (University of Southampton): Automated Data Sharing Contracts
       - To Eun Kim (University College London): Personal Knowledge Graphs: Towards Better Conversational Assistants
       - Michael	Eiden (Arthur D. Little): Knowledge Graphs in Safety Assessment
-      - Ollie	Keers	(HomeX)
       - Erica	Yang (Chilton Computing Ltd): Generate synthetic datasets using knowledge graphs and machine learning: are we there yet?
       - Albert Meroño Peñuela (King's College London): Multimodal knowledge graphs at KCL 
       - Paul Cripps (Dstl): A phenomenological, observational approach to semantic knowledge graphs
