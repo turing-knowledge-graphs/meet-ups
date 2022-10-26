@@ -16,7 +16,7 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
       - To Eun Kim (University College London): Personal Knowledge Graphs: Towards Better Conversational Assistants
       - Michael	Eiden (Arthur D. Little): Knowledge Graphs in Safety Assessment
       - Erica	Yang (Chilton Computing Ltd): Generate synthetic datasets using knowledge graphs and machine learning: are we there yet?
-      - Albert Meroño Peñuela (King's College London): Multimodal knowledge graphs at KCL 
+      - Hang Dong (University of Oxford): Out-of-KG Entity Discovery from Texts (in the Biomedical Domain)
       - Paul Cripps (Dstl): A phenomenological, observational approach to semantic knowledge graphs
       - Terence	Egbelo (University of Sheffield): Knowledge graph-based inference for small molecule drug discovery   
     - 12:00-13:00: Lunch and Networking
