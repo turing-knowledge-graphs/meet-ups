@@ -1,6 +1,6 @@
 ## Agenda 5th Meet-up: 
   - October 27 (10:30am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
-  - Resources: [Recording] [[Slides](https://docs.google.com/presentation/d/1lT-lNuHXxUzGggcZ1Q6_Pt5JuhuzOyH8aCE0l1_I79w/edit?usp=sharing)] [[Photos](https://drive.google.com/drive/folders/1SUKJziNNK6smwMHSgRNfLAbC-_E0ejll?usp=sharing)] [[ISWC public events](https://iswc2022.semanticweb.org/index.php/broadcasting-events/)]
+  - Resources: [[Cloud recording](https://turing-uk.zoom.us/rec/share/2J45fsnQD0nM98VjnubAm7ZbBWPf8LnG97Zg7BMZiiGPwcoGsMEx01iaj88XDpTP.5vrWeEjo7VR_am6z)] (Available for 30 days. Passcode: Tnhv6Gh#) [[Recording](https://drive.google.com/drive/folders/1uP6T1GUCYnHbGwXKsXnvI8RZpMFQYPYR?usp=sharing)] [[Slides](https://docs.google.com/presentation/d/1lT-lNuHXxUzGggcZ1Q6_Pt5JuhuzOyH8aCE0l1_I79w/edit?usp=sharing)] [[Photos](https://drive.google.com/drive/folders/1SUKJziNNK6smwMHSgRNfLAbC-_E0ejll?usp=sharing)] [[ISWC public events](https://iswc2022.semanticweb.org/index.php/broadcasting-events/)]
   - Agenda:
     - 10:30-11:00: **Arrival, Set-up, Coffee**
     - 11:00-12:00: **Introduction from organisers and talks from participants** (3 min + 2 Q&A)
