@@ -15,9 +15,9 @@
       - Terence	Egbelo (University of Sheffield): Knowledge graph-based inference for small molecule drug discovery
       - Ernesto Jimenez-Ruiz (City, University of London): Knowledge Graphs in Ecotoxicology     
     - 12:00-13:00: Lunch and Networking
-    - 13:00-14:00: **ISWC Keynote**.     
+    - 13:00-14:00: **ISWC Keynote**.  ([YouTube link](https://youtu.be/flee9fTu4aU))   
       - ["Circular Health"](https://iswc2022.semanticweb.org/index.php/keynote-speakers/#ilaria). **Ilaria Capua** — One Health Center of Excellence, University of Florida 
     - 14:00-14:10: Break
-    - 14:10-15:10: **ISWC Panel**: ["Knowledge Graphs for The Physical World: What is Missing?"](https://iswc2022.semanticweb.org/index.php/panel/)
+    - 14:10-15:10: **ISWC Panel**: ["Knowledge Graphs for The Physical World: What is Missing?"](https://iswc2022.semanticweb.org/index.php/panel/)  ([YouTube link](https://youtu.be/PwJDmvzYQp0))
     - 15:10-15:20: Break
     - 15:20-16:00: **ISWC Closure or Networking**
