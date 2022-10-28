@@ -1,0 +1,23 @@
+## Agendat 5th Meet-up: 
+  - October 27 (10:30am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
+  - Resources: [[Recording]()] [[Slides](https://docs.google.com/presentation/d/1lT-lNuHXxUzGggcZ1Q6_Pt5JuhuzOyH8aCE0l1_I79w/edit?usp=sharing)] [[Photos](https://drive.google.com/drive/folders/1SUKJziNNK6smwMHSgRNfLAbC-_E0ejll?usp=sharing)] [[ISWC public events](https://iswc2022.semanticweb.org/index.php/broadcasting-events/)]
+  - Agenda:
+    - 10:30-11:00: **Arrival, Set-up, Coffee**
+    - 11:00-12:00: **Introduction from organisers and talks from participants** (3 min + 2 Q&A)
+      - Jiaoyan	Chen (University of Oxford): Knowledge Graph Construction and Curation
+      - Zhongtian	Sun (Durham University): Graph Representation Learning and its Application
+      - George Konstantinidis (University of Southampton): Automated Data Sharing Contracts
+      - To Eun Kim (University College London): Personal Knowledge Graphs: Towards Better Conversational Assistants
+      - Michael	Eiden (Arthur D. Little): Knowledge Graphs in Safety Assessment
+      - Erica	Yang (Chilton Computing Ltd): Generate synthetic datasets using knowledge graphs and machine learning: are we there yet?
+      - Hang Dong (University of Oxford): Out-of-KG Entity Discovery from Texts (in the Biomedical Domain)
+      - Paul Cripps (Dstl): A phenomenological, observational approach to semantic knowledge graphs
+      - Terence	Egbelo (University of Sheffield): Knowledge graph-based inference for small molecule drug discovery
+      - Ernesto Jimenez-Ruiz (City, University of London): Knowledge Graphs in Ecotoxicology     
+    - 12:00-13:00: Lunch and Networking
+    - 13:00-14:00: **ISWC Keynote**.     
+      - ["Circular Health"](https://iswc2022.semanticweb.org/index.php/keynote-speakers/#ilaria). **Ilaria Capua** — One Health Center of Excellence, University of Florida 
+    - 14:00-14:10: Break
+    - 14:10-15:10: **ISWC Panel**: ["Knowledge Graphs for The Physical World: What is Missing?"](https://iswc2022.semanticweb.org/index.php/panel/)
+    - 15:10-15:20: Break
+    - 15:20-16:00: **ISWC Closure or Networking**
