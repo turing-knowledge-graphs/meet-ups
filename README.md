@@ -12,7 +12,7 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
   - Registration for in person attendees via [eventbrite](https://www.eventbrite.co.uk/e/5th-meetup-knowledge-graphs-ig-at-the-alan-turing-institute-tickets-427051361117)
     - Fee: £5 to be given to the [Oxford Health Charity](https://www.justgiving.com/fundraising/knowledge-graphs-turing) (please include your name as in the eventbrite registration).
   - Format: Meet-up and attending together the last sessions of the [International Semantic Web Conference - ISWC (Virtual)](https://iswc2022.semanticweb.org/).
-  - [Agenda and meet-up resources](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-5th-meetup.md):
+  - [Agenda and meet-up resources](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-5th-meetup.md).
   - [Photos](https://drive.google.com/drive/folders/1SUKJziNNK6smwMHSgRNfLAbC-_E0ejll?usp=sharing)
 
 
