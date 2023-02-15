@@ -2,7 +2,9 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event: 
 
-- Next meet-up will most probably be in January 2023 (online)
+- 6th Meet-up: **March 3** (12pm-2pm GMT), 2023. Online.
+  - Invited Speaker: Elena Simperl will talk about the [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22372) on **Knowledge Graphs and Their Role in the Knowledge Engineering of the 21st Century**
+  - Short presentations by participants.
 
 
 ### Last event: 
