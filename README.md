@@ -10,7 +10,7 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 - 6th Meet-up: **March 3** (12pm-2pm GMT), 2023. Online. [[Slides](https://drive.google.com/file/d/1IduSwNPF_kVBJO8v4bSL4EXdmdS-zh8F/view?usp=sharing)][[Cloud recording](https://city-ac-uk.zoom.us/rec/share/v8bx6xxf4RKk-JnFXVSBTi9z3JjKmWx3NI_dJK2zKzvSWdbwbnUtXZwrUEM12YvS.JNZDOL2Iv1GTaMAG) (Passcode: dur01VM#
 )][[Recording](https://drive.google.com/drive/folders/1FkB0ibErTDzhJWvJ7sooD40afnAcwlwO?usp=sharing)]
-  - Invited Speaker: Elena Simperl will talk about the [Dagstuhl Seminar](https://www.dagstuhl.de/22372) on **Knowledge Graphs and Their Role in the Knowledge Engineering of the 21st Century**
+  - Invited Speaker: Elena Simperl will talk about the [Dagstuhl Seminar](https://www.dagstuhl.de/22372) on **Knowledge Graphs and Their Role in the Knowledge Engineering of the 21st Century** [[Slides](https://drive.google.com/file/d/1eoQi4I7PmrD-2AaJcW-mm3Icm5kzE8mH/view?usp=sharing)]
   - Short presentations by participants.
     - [John Domingue (KMI)](https://docs.google.com/presentation/d/19WIgr3IZYpIP_mWYE4tw-PR1NNKYpgBA/edit?usp=sharing&ouid=107320364354662189717&rtpof=true&sd=true)  
     - [Nick Lynch (Curlew Research)](https://drive.google.com/file/d/1nJBkA08lBcfr1GSlkofUmpwtOI6qenj9/view?usp=sharing)
