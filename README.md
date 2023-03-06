@@ -2,12 +2,30 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event: 
 
-- 6th Meet-up: **March 3** (12pm-2pm GMT), 2023. Online.
-  - Invited Speaker: Elena Simperl will talk about the [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22372) on **Knowledge Graphs and Their Role in the Knowledge Engineering of the 21st Century**
-  - Short presentations by participants.
+- 2nd Symposium **June 16, 2023** 
+  - Format: in person, broadcasted online.
 
 
 ### Last event: 
+
+- 6th Meet-up: **March 3** (12pm-2pm GMT), 2023. Online. [[Slides](https://drive.google.com/file/d/1IduSwNPF_kVBJO8v4bSL4EXdmdS-zh8F/view?usp=sharing)][[Cloud recording](https://city-ac-uk.zoom.us/rec/share/v8bx6xxf4RKk-JnFXVSBTi9z3JjKmWx3NI_dJK2zKzvSWdbwbnUtXZwrUEM12YvS.JNZDOL2Iv1GTaMAG) (Passcode: dur01VM#
+)][[Recording](https://drive.google.com/drive/folders/1FkB0ibErTDzhJWvJ7sooD40afnAcwlwO?usp=sharing)]
+  - Invited Speaker: Elena Simperl will talk about the [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22372) on **Knowledge Graphs and Their Role in the Knowledge Engineering of the 21st Century**
+  - Short presentations by participants.
+    - [John Domingue (KMI)](https://docs.google.com/presentation/d/19WIgr3IZYpIP_mWYE4tw-PR1NNKYpgBA/edit?usp=sharing&ouid=107320364354662189717&rtpof=true&sd=true)  
+    - [Nick Lynch (Curlew Research)](https://drive.google.com/file/d/1nJBkA08lBcfr1GSlkofUmpwtOI6qenj9/view?usp=sharing)
+    
+
+### Symposiums
+- 1st Symposium: **June 17th** 2022 (10am-4pm BST), at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
+  - Format: up to 45 participants in person, broadcasted online.
+  - Registration via [eventbrite](https://www.eventbrite.co.uk/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277). In person registration closes on June 3rd, 2022. Because of space constraints, maximum 2 people per organisation or group may attend in person. 
+  - [Agenda and slides](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2022.md).
+  - [Photos](https://drive.google.com/drive/folders/1pEQPVm2BKBy3yzyLBGPM-tUUHi3NR1_f?usp=sharing)
+
+
+### Meet-ups
+
 
 - 5th Meet-up: **October 27** (10:30am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
   - Participation: up to 45 (in-person) attendees and some sessions broadcasted online. 
@@ -18,17 +36,6 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
   - [Photos](https://drive.google.com/drive/folders/1SUKJziNNK6smwMHSgRNfLAbC-_E0ejll?usp=sharing)
 
 
-
-
-### Symposiums
-- 1st Symposium: June 17th 2022 (10am-4pm BST), at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
-  - Format: up to 45 participants in person, broadcasted online.
-  - Registration via [eventbrite](https://www.eventbrite.co.uk/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277). In person registration closes on June 3rd, 2022. Because of space constraints, maximum 2 people per organisation or group may attend in person. 
-  - [Agenda and slides](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2022.md).
-  - [Photos](https://drive.google.com/drive/folders/1pEQPVm2BKBy3yzyLBGPM-tUUHi3NR1_f?usp=sharing)
-
-
-### Meet-ups
 
 - 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)  
   - Keynote: [Prof. Pieter Colpaert](https://pietercolpaert.be/) (Ghent University, Belgium). *What happens before the 
