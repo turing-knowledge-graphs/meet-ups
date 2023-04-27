@@ -2,8 +2,9 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event: 
 
-- 2nd Symposium **June 16, 2023** 
-  - Format: in person, broadcasted online.
+- 2nd Symposium **June 16, 2023** at [City, University of London](https://www.city.ac.uk/) 
+  - Format: in person (around 100 participants), broadcasted online.
+  - Registration details coming soon.
 
 
 ### Last event: 
