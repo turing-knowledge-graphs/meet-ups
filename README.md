@@ -2,13 +2,12 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event: 
 
-- 2nd Symposium **June 16, 2023** at [City, University of London](https://www.city.ac.uk/) 
-  - Format: in person (around 100 participants), broadcasted online.
-  - Registration details coming soon.
-  - Keynotes:
-    - We are delighted to announce that Lora Aroyo and Chris Welty, both from Google Research, will be giving a keynote during the symposium.
+- 2nd Symposium  **June 16th 2023** (9:30am-5:30pm BST), at the [City, University of London](https://www.city.ac.uk/), Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9)
+  - Format: in person (around 100 participants)
+  - Registration via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). In person registration closes on June 6th, 2023.
+  - [Agenda](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md).
 
-
+    
 
 ### Last event: 
 
