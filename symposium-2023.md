@@ -7,7 +7,7 @@
 ## Agenda
 
 - Keynotes:
-  - We are delighted to announce that [Lora Aroyo]() and [Chris Welty](), both from Google Research, will be giving a keynote during the symposium.
+  - We are delighted to announce that [Lora Aroyo](https://research.google/people/LoraAroyo/) and [Chris Welty](https://research.google/people/104789/), both from Google Research, will be giving a keynote during the symposium.
 
 - Presentations from participants:
   - [Call for short presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
