@@ -5,6 +5,9 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 - 2nd Symposium **June 16, 2023** at [City, University of London](https://www.city.ac.uk/) 
   - Format: in person (around 100 participants), broadcasted online.
   - Registration details coming soon.
+  - Keynotes:
+    - We are delighted to announce that Lora Aroyo and Chris Welty, both from Google Research, will be giving a keynote during the symposium.
+
 
 
 ### Last event: 
