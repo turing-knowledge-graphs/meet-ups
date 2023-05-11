@@ -1,4 +1,4 @@
-## 1nd Annual Symposium of the Knowledge Graphs IG at the Alan Turing Institute
+## 2nd Annual Symposium of the Knowledge Graphs IG at the Alan Turing Institute
 
 - **When:** June 16th 2023 (9:30am-5:30pm BST), at the [City, University of London](https://www.city.ac.uk/), Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9)
 - **Format:** up to 100 participants in person. 
