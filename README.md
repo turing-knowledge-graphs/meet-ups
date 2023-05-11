@@ -1,6 +1,6 @@
 Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-group-256569).
 
-### Upcoming event: 
+### Upcoming event: 2nd Symposium
 
 - 2nd Symposium  **June 16th 2023** (9:30am-5:30pm BST), at the [City, University of London](https://www.city.ac.uk/), Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9)
   - Format: in person (around 100 participants)
