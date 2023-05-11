@@ -13,6 +13,6 @@
   - [Call for short presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
   - [Call for short presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
  
-- NeSy session together with the chairs of The Turing Interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)
+- NeSy session together with the chairs of The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)
 
 - Matchmaking and networking activities.
