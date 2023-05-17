@@ -17,3 +17,8 @@
 - [NeSy session](http://www.neural-symbolic.org/) together with the chairs of The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)
 
 - Matchmaking and networking activities.
+
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/turing-knowledge-graphs/meet-ups/main/poster-2nd-symposium-ig-kg.png" width="550" alt="Symposium">
+</p>
