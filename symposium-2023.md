@@ -8,7 +8,7 @@
 ## Agenda
 
 - Keynotes:
-  - We are delighted to announce that [Lora Aroyo](https://research.google/people/LoraAroyo/) and [Chris Welty](https://research.google/people/104789/), both from Google Research, will be giving a keynote during the symposium.
+  - We are delighted to announce that [Lora Aroyo](https://research.google/people/LoraAroyo/) and [Chris Welty](https://research.google/people/104789/) (Google Research), and [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) will be giving a keynote during the symposium.
 
 - Presentations from participants:
   - [Call for short presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
