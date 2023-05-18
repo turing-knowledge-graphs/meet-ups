@@ -1,4 +1,4 @@
-## 2nd Annual Symposium of [The Turing Interest Group on Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
+## 2nd Annual Symposium of The Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
 
 - **When:** June 16th 2023 (9:30am-5:30pm BST)
 - **Where:** [City, University of London](https://www.city.ac.uk/), Lecture Theatre C309, Tait Building. How to get to [Tait building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).
