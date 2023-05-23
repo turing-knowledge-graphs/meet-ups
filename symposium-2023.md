@@ -2,7 +2,7 @@
 
 - **When:** June 16th 2023 (10:00am-6:00pm BST, with coffee and set-up from 9:30am)
 - **Where:** [City, University of London](https://www.city.ac.uk/), Lecture Theatre C309, Tait Building. How to get to [Tait building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).
-- **Format:** up to 100 participants <u>in person</u>. 
+- **Format:** up to 100 participants <ins>in person</ins>. 
 - **Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration closes on June 6th, 2023.
 - **Sponsors:** [Telicent](https://www.telicent.io/), [City, University of London](https://www.city.ac.uk/) and [The Alan Turing Institute](https://www.turing.ac.uk/)
 - **Call for posters:**
