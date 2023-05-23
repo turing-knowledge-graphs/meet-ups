@@ -36,6 +36,7 @@
 > - Thom Pijnenburg (Elsevier) on "Link Prediction on Knowledge Graphs in Life Sciences"
 > - Kalyan Dutia (Non-profit Climate Policy Radar) on "Building an Evidence Base of Global Climate Policy as a Knowledge Graph"
 > - Henriette Harmse (EMBL-EBI) on "New Features of the Ontology Lookup Service (OLS) Version 4"
+> - Ewan Mackie (JPMorgan Chase) on "Social Networks for Front-Office Sales Interactions"
 
 12:45 - 13:45   Lunch and Networking
 
@@ -44,10 +45,10 @@
 14:30 - 15:15 	Poster session (To be completed)
 > - Enrico Daga (The Open University) on "Data integration with knowledge graphs: Façade-X and the SPARQL Anything project"
 > - Yi Liu (MRC Integrative Epidemiology Unit, Bristol Medical School) on "Triangulating evidence in health sciences using NLP and knowledge graphs"
+> - Jiaru Bai (University of Cambridge) on "A derived information framework for a dynamic knowledge graph and its application to smart cities"
 > - Roxana Pop (The Alan Turing Institute and UiO) on "Time prediction on Temporal Knowledge Graphs"
 > - Nitisha Jain (King's College London) on "Multi-modal Representations with Knowledge Graph Embeddings"
 > - Oliver Lloyd (University of Bristol) on "Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality"
-> - Ewan Mackie (JPMorgan Chase) on "Social Networks for Front-Office Sales Interactions"
 
 15:15 - 16:00  	Coffee and Networking/Matchmaking activity
 
