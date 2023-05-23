@@ -52,7 +52,7 @@
 15:15 - 16:00  	Coffee and Networking/Matchmaking activity
 
 16:00 - 17:00  	NeSy session
-> - Introduction from the organisers of The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)
+> - Introduction to The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai) by [Efi Tsamoura](https://www.turing.ac.uk/people/efthymia-tsamoura)
 > - Keynote by [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) 
 
 17:00 - 17:45  	Panel discussion
