@@ -5,7 +5,7 @@
 - **Format:** up to 100 participants <ins>in person</ins>. 
 - **Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration closes on June 6th, 2023.
 - **Sponsors:** [Telicent](https://www.telicent.io/), [City, University of London](https://www.city.ac.uk/) and [The Alan Turing Institute](https://www.turing.ac.uk/)
-- **Call for posters:**
+- **Call for posters:** (some slots still available)
   - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
   - [Poster presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
 
