@@ -5,19 +5,67 @@
 - **Format:** up to 100 participants in person. 
 - **Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration closes on June 6th, 2023.
 - **Sponsors:** [Telicent](https://www.telicent.io/), [City, University of London](https://www.city.ac.uk/) and [The Alan Turing Institute](https://www.turing.ac.uk/)
+- **Call for posters:**
+  - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
+  - [Poster presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
+
+
 
 ## Agenda
 
-- Keynotes:
-  - We are delighted to announce that [Lora Aroyo](https://research.google/people/LoraAroyo/) and [Chris Welty](https://research.google/people/104789/) (Google Research), and [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) will be giving a keynote during the symposium.
+9:30 - 10:00    Coffee and poster set-up
 
-- Presentations from participants:
-  - [Call for short presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
-  - [Call for short presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
+10:00 - 10:30   Welcome and Opening
+> - Welcome from City and The Turing University Network
+> - Opening by the [IG organisers](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
+
+10:30 - 11:15   Keynote by [Chris Welty](https://research.google/people/104789/) (Google Research)
+
+> **Title**:  Addressing Label Sparsity With Class-Level Common Sense
  
-- [NeSy session](http://www.neural-symbolic.org/) together with the chairs of The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)
+> **Abstract**: The vast majority of business problems are prevented from deploying machine learning solutions due to label sparsity -- the lack of labeled data to train large models.  This major problem is overshadowed by continued successes in problems that, often, naturally have a lot of data (for example, Netflix has millions of examples of what movies people watch).  At Google, we recently launched a new enhancement to search that allows product and dish queries, such as "Milk", "12 string guitar", or "spaghetti bolognese" to return local results - places on maps, nearby, that sell the product or serve the dish.  The problem had remained unsolved at Google for more than 10 years because of label sparsity: 70% of stores and restaurants worldwide - and 40% in the US - do not have a web page, Google's primary data source for search.  To overcome this challenge and extend our understanding of small-medium sized brick & mortar shops and restaurants, we used a unique combination of Knowledge Graphs, AI and Human Common Sense (e.g., [[1]](https://ojs.aaai.org/index.php/HCOMP/article/view/18947), [[2]](https://www.frontiersin.org/articles/10.3389/frai.2022.830299/full)), that demonstrates both the promises and limitations of AI in solving practical business problems.
 
-- Matchmaking and networking activities.
+11:15 - 11:45   Short presentation/pitches
+> - Penny Creed (Telicent)
+> - Juraj Mavracic (BAE systems)
+> - Efi Tsamoura (Samsung AI) on "Trigger graphs"
+
+11:45 - 12:15 Coffee and Networking/Matchmaking activity
+
+12:15 - 12:45   Short presentation/pitches
+> - Thom Pijnenburg (Elsevier) on "Link Prediction on Knowledge Graphs in Life Sciences"
+> - Kalyan Dutia (Non-profit Climate Policy Radar) on "Building an Evidence Base of Global Climate Policy as a Knowledge Graph"
+> - Henriette Harmse (EMBL-EBI) on "New Features of the Ontology Lookup Service (OLS) Version 4"
+
+12:45 - 13:45   Lunch and Networking
+
+13:45 - 14:30   Keynote by [Lora Aroyo](https://research.google/people/LoraAroyo/) (Google Research)
+
+14:30 - 15:15 	Poster session (To be completed)
+> - Enrico Daga (The Open University) on "Data integration with knowledge graphs: Façade-X and the SPARQL Anything project"
+> - Yi Liu (MRC Integrative Epidemiology Unit, Bristol Medical School) on "Triangulating evidence in health sciences using NLP and knowledge graphs"
+> - Roxana Pop (The Alan Turing Institute and UiO) on "Time prediction on Temporal Knowledge Graphs"
+> - Nitisha Jain (King's College London) on "Multi-modal Representations with Knowledge Graph Embeddings"
+> - Oliver Lloyd (University of Bristol) on "Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality"
+> - Ewan Mackie (JPMorgan Chase) on "Social Networks for Front-Office Sales Interactions"
+
+15:15 - 16:00  	Coffee and Networking/Matchmaking activity
+
+16:00 - 17:00  	NeSy session
+> - Introduction from the organisers of The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)
+> - Keynote by [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) 
+
+17:00 - 17:45  	Panel discussion
+> - Chris Welty, Lora Aroyo, Artur Garcez, Efi Tsamoura, Ian Horrocks
+	
+17:45 - 18:00  	Closing
+> - Presentation of the [TGDK journal](https://tgdk.org/)
+> - Next steps
+
+
+
+
+
 
 <br>
 <p align="center">
@@ -25,8 +73,4 @@
 </p>
 
 
-### Chris Welty
 
-**Addressing Label Sparsity With Class-Level Common Sense**
-
-The vast majority of business problems are prevented from deploying machine learning solutions due to label sparsity -- the lack of labeled data to train large models.  This major problem is overshadowed by continued successes in problems that, often, naturally have a lot of data (for example, Netflix has millions of examples of what movies people watch).  At Google, we recently launched a new enhancement to search that allows product and dish queries, such as "Milk", "12 string guitar", or "spaghetti bolognese" to return local results - places on maps, nearby, that sell the product or serve the dish.  The problem had remained unsolved at Google for more than 10 years because of label sparsity: 70% of stores and restaurants worldwide - and 40% in the US - do not have a web page, Google's primary data source for search.  To overcome this challenge and extend our understanding of small-medium sized brick & mortar shops and restaurants, we used a unique combination of Knowledge Graphs, AI and Human Common Sense (e.g., [[1]](https://ojs.aaai.org/index.php/HCOMP/article/view/18947), [[2]](https://www.frontiersin.org/articles/10.3389/frai.2022.830299/full)), that demonstrates both the promises and limitations of AI in solving practical business problems.
