@@ -42,7 +42,9 @@
 
 13:45 - 14:30   Keynote by [Lora Aroyo](https://research.google/people/LoraAroyo/) (Google Research)
 
-14:30 - 15:15 	Poster session (To be completed)
+14:30 - 14:35	City's Women++ Computing Society by [Mai Elshehaly](http://www.invisai.com/mai/)
+
+14:35 - 15:15 	Poster session (To be completed)
 > - Enrico Daga (The Open University) on "Data integration with knowledge graphs: Façade-X and the SPARQL Anything project"
 > - Yi Liu (MRC Integrative Epidemiology Unit, Bristol Medical School) on "Triangulating evidence in health sciences using NLP and knowledge graphs"
 > - Jiaru Bai (University of Cambridge) on "A derived information framework for a dynamic knowledge graph and its application to smart cities"
