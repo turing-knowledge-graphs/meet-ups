@@ -50,7 +50,8 @@
 > - Jiaru Bai (University of Cambridge) on "A derived information framework for a dynamic knowledge graph and its application to smart cities"
 > - Roxana Pop (The Alan Turing Institute and UiO) on "Time prediction on Temporal Knowledge Graphs"
 > - Nitisha Jain (King's College London) on "Multi-modal Representations with Knowledge Graph Embeddings"
-> - Oliver Lloyd (University of Bristol) on "Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality"
+> - Cristina Cornelio (Samsung AI) on "Learning Where and When to Reason in Neuro-Symbolic Inference"
+> - Sanjay Budhdeo (University College London) on "Scoping review of knowledge graph applications in biomedical and healthcare sciences"
 
 15:15 - 16:00  	Coffee and Networking/Matchmaking activity
 
