@@ -33,7 +33,6 @@
 11:45 - 12:15 Coffee and Networking/Matchmaking activity
 
 12:15 - 12:45   Short presentation/pitches
-> - Thom Pijnenburg (Elsevier) on "Link Prediction on Knowledge Graphs in Life Sciences"
 > - Kalyan Dutia (Non-profit Climate Policy Radar) on "Building an Evidence Base of Global Climate Policy as a Knowledge Graph"
 > - Henriette Harmse (EMBL-EBI) on "New Features of the Ontology Lookup Service (OLS) Version 4"
 > - Ewan Mackie (JPMorgan Chase) on "Social Networks for Front-Office Sales Interactions"
@@ -45,6 +44,7 @@
 14:30 - 14:35	City's Women++ Computing Society by [Mai Elshehaly](http://www.invisai.com/mai/)
 
 14:35 - 15:15 	Poster session (To be completed)
+> - Thom Pijnenburg (Elsevier) on "Link Prediction on Knowledge Graphs in Life Sciences"
 > - Enrico Daga (The Open University) on "Data integration with knowledge graphs: Façade-X and the SPARQL Anything project"
 > - Yi Liu (MRC Integrative Epidemiology Unit, Bristol Medical School) on "Triangulating evidence in health sciences using NLP and knowledge graphs"
 > - Jiaru Bai (University of Cambridge) on "A derived information framework for a dynamic knowledge graph and its application to smart cities"
