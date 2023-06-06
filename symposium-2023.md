@@ -5,7 +5,7 @@
 - **Format:** up to 100 participants <ins>in person</ins>. 
 - **Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration closes on June 6th, 2023.
 - **Sponsors:** [Telicent](https://www.telicent.io/), [City, University of London](https://www.city.ac.uk/) and [The Alan Turing Institute](https://www.turing.ac.uk/)
-- **Call for posters:** (some slots still available)
+- **Call for presentations and posters:** (now closed)
   - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
   - [Poster presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
 
@@ -58,6 +58,7 @@
 16:00 - 17:00  	NeSy session
 > - Introduction to The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai) by [Efi Tsamoura](https://www.turing.ac.uk/people/efthymia-tsamoura)
 > - Keynote by [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) 
+> 	- **Title**: On Risk, Existential Risk and What is Left to Do in AI
 
 17:00 - 17:45  	Panel discussion (The future of Knowledge Graphs in the era of Large Language Models)
 > - Chris Welty, Lora Aroyo, Artur Garcez, Efi Tsamoura, Ian Horrocks
