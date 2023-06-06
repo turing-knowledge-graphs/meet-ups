@@ -28,7 +28,7 @@
 11:15 - 11:45   Short presentation/pitches
 > - Penny Creed (Telicent)
 > - Juraj Mavracic (BAE systems)
-> - Efi Tsamoura (Samsung AI) on "Trigger graphs"
+> - Efi Tsamoura (Samsung AI) on "Highly Scalable Reasoning over Knowledge Bases via Trigger Graphs"
 
 11:45 - 12:15 Coffee and Networking/Matchmaking activity
 
