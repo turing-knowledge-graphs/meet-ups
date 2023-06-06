@@ -59,7 +59,7 @@
 > - Introduction to The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai) by [Efi Tsamoura](https://www.turing.ac.uk/people/efthymia-tsamoura)
 > - Keynote by [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) 
 
-17:00 - 17:45  	Panel discussion
+17:00 - 17:45  	Panel discussion (The future of Knowledge Graphs in the era of Large Language Models)
 > - Chris Welty, Lora Aroyo, Artur Garcez, Efi Tsamoura, Ian Horrocks
 	
 17:45 - 18:00  	Closing
