@@ -26,7 +26,7 @@
 > **Abstract**: The vast majority of business problems are prevented from deploying machine learning solutions due to label sparsity -- the lack of labeled data to train large models.  This major problem is overshadowed by continued successes in problems that, often, naturally have a lot of data (for example, Netflix has millions of examples of what movies people watch).  At Google, we recently launched a new enhancement to search that allows product and dish queries, such as "Milk", "12 string guitar", or "spaghetti bolognese" to return local results - places on maps, nearby, that sell the product or serve the dish.  The problem had remained unsolved at Google for more than 10 years because of label sparsity: 70% of stores and restaurants worldwide - and 40% in the US - do not have a web page, Google's primary data source for search.  To overcome this challenge and extend our understanding of small-medium sized brick & mortar shops and restaurants, we used a unique combination of Knowledge Graphs, AI and Human Common Sense (e.g., [[1]](https://ojs.aaai.org/index.php/HCOMP/article/view/18947), [[2]](https://www.frontiersin.org/articles/10.3389/frai.2022.830299/full)), that demonstrates both the promises and limitations of AI in solving practical business problems.
 
 11:15 - 11:45   Short presentation/pitches
-> - Penny Creed (Telicent)
+> - Ian Bailey (Telicent)
 > - Juraj Mavracic (BAE systems)
 > - Efi Tsamoura (Samsung AI) on "Highly Scalable Reasoning over Knowledge Bases via Trigger Graphs"
 
