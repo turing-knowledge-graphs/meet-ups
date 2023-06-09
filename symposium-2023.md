@@ -43,7 +43,7 @@
 
 14:30 - 14:35	City's Women++ Computing Society by [Mai Elshehaly](http://www.invisai.com/mai/)
 
-14:35 - 15:15 	Poster session (To be completed)
+14:35 - 15:15 	Poster session
 > - Thom Pijnenburg (Elsevier) on "Link Prediction on Knowledge Graphs in Life Sciences"
 > - Enrico Daga (The Open University) on "Data integration with knowledge graphs: Façade-X and the SPARQL Anything project"
 > - Yi Liu (MRC Integrative Epidemiology Unit, Bristol Medical School) on "Triangulating evidence in health sciences using NLP and knowledge graphs"
