@@ -27,7 +27,7 @@
 
 11:15 - 11:45   Short presentation/pitches
 > - Ian Bailey (Telicent) on "Fine-grain access control in knowledge graphs – balancing need to share with need to know"
-> - Juraj Mavracic (BAE systems)
+> - Juraj Mavracic (BAE systems) on "Knowledge & Semantics"
 > - Efi Tsamoura (Samsung AI) on "Highly Scalable Reasoning over Knowledge Bases via Trigger Graphs"
 
 11:45 - 12:15 Coffee and Networking/Matchmaking activity
