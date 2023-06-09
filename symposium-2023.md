@@ -53,6 +53,7 @@
 > - Cristina Cornelio (Samsung AI) on "Learning Where and When to Reason in Neuro-Symbolic Inference"
 > - Sanjay Budhdeo (University College London) on "Scoping review of knowledge graph applications in biomedical and healthcare sciences"
 > - Rui Zhu (University of Bristol) on "KnowWhereGraph: A Geospatial Knowledge Graph to Support Cross-Domain Knowledge Discovery"
+> - Dave Herron (City, University of London) on "Knowledge Graphs for NeSy AI Systems"
 
 15:15 - 16:00  	Coffee and Networking/Matchmaking activity
 
