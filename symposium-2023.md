@@ -60,7 +60,7 @@
 > - Keynote by [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) 
 > 	- **Title**: On Risk, Existential Risk and What is Left to Do in AI
 
-17:00 - 17:45  	Panel discussion (The future of Knowledge Graphs in the era of Large Language Models)
+17:00 - 17:45  	Panel discussion (The future of Knowledge Graphs in the era of Deep Learning and Large Language Models)
 > - Chris Welty, Lora Aroyo, Artur Garcez, Efi Tsamoura, Ian Horrocks
 	
 17:45 - 18:00  	Closing
