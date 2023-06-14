@@ -2,7 +2,7 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event: 2nd Symposium
 
-- 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at the City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9)
+- 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at the City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) room.
   - Format: in person (around 100 participants)
   - Registration via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration closes on June 6th, 2023 (now closed).
   - [Agenda](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md)
