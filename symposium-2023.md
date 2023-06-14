@@ -49,7 +49,6 @@
 > - Yi Liu (MRC Integrative Epidemiology Unit, Bristol Medical School) on "Triangulating evidence in health sciences using NLP and knowledge graphs"
 > - Jiaru Bai (University of Cambridge) on "A derived information framework for a dynamic knowledge graph and its application to smart cities"
 > - Roxana Pop (The Alan Turing Institute and UiO) on "Time prediction on Temporal Knowledge Graphs"
-> - Nitisha Jain (King's College London) on "Multi-modal Representations with Knowledge Graph Embeddings"
 > - Cristina Cornelio (Samsung AI) on "Learning Where and When to Reason in Neuro-Symbolic Inference"
 > - Sanjay Budhdeo (University College London) on "Scoping review of knowledge graph applications in biomedical and healthcare sciences"
 > - Rui Zhu (University of Bristol) on "KnowWhereGraph: A Geospatial Knowledge Graph to Support Cross-Domain Knowledge Discovery"
