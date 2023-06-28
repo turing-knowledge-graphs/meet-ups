@@ -17,27 +17,27 @@
 
 9:30 - 10:00    Coffee and poster set-up
 
-10:00 - 10:30   Welcome and Opening ([slides](), video: [presentation](), [camera]())
+10:00 - 10:30   Welcome and Opening ([slides](https://drive.google.com/file/d/1lx7Cxt4WD4W4rmv1lPl02DzdRtbN6Lkc/view?usp=drive_link), video: [presentation](https://drive.google.com/file/d/1vJiU_uwfZBXlmYdy0eVcEY_zIbQVLVmr/view?usp=drive_link), [camera](https://drive.google.com/file/d/1kh0Cnlg1qfsAwIs04Bj8wovpQmK9_dOj/view?usp=drive_link))
 > - Welcome from City and [The Turing University Network](https://www.turing.ac.uk/turing-university-network)
 > - Opening by the [IG organisers](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
 
 10:30 - 11:15   Keynote by [Chris Welty](https://research.google/people/104789/) (Google Research)
 
-> **Title**:  Addressing Label Sparsity With Class-Level Common Sense (video: [presentation](), [camera]())
+> **Title**:  Addressing Label Sparsity With Class-Level Common Sense (video: [presentation](https://drive.google.com/file/d/1xNo6DF0U9tFRu9YfrYF4_yWgNasLzq2i/view?usp=drive_link), [camera](https://drive.google.com/file/d/1DCixpf2xA-mTPIDYZdGm0-M5ei0dAGB_/view?usp=drive_link))
  
 > **Abstract**: The vast majority of business problems are prevented from deploying machine learning solutions due to label sparsity -- the lack of labeled data to train large models.  This major problem is overshadowed by continued successes in problems that, often, naturally have a lot of data (for example, Netflix has millions of examples of what movies people watch).  At Google, we recently launched a new enhancement to search that allows product and dish queries, such as "Milk", "12 string guitar", or "spaghetti bolognese" to return local results - places on maps, nearby, that sell the product or serve the dish.  The problem had remained unsolved at Google for more than 10 years because of label sparsity: 70% of stores and restaurants worldwide - and 40% in the US - do not have a web page, Google's primary data source for search.  To overcome this challenge and extend our understanding of small-medium sized brick & mortar shops and restaurants, we used a unique combination of Knowledge Graphs, AI and Human Common Sense (e.g., [[1]](https://ojs.aaai.org/index.php/HCOMP/article/view/18947), [[2]](https://www.frontiersin.org/articles/10.3389/frai.2022.830299/full)), that demonstrates both the promises and limitations of AI in solving practical business problems.
 
-11:15 - 11:45   Short presentation/pitches (video: [presentation](), [camera]())
+11:15 - 11:45   Short presentations/pitches I (video: [presentation](https://drive.google.com/file/d/1FjRNOtlFZLD18PAkScj5q649m30lHLDq/view?usp=drive_link), [camera](https://drive.google.com/file/d/1ROPeYbaFCmeqViG85zdURc64VDzhiSyS/view?usp=drive_link))
 > - Ian Bailey (Telicent) on "Fine-grain access control in knowledge graphs – balancing need to share with need to know"
 > - Juraj Mavracic (BAE systems) on "Knowledge & Semantics"
-> - Efi Tsamoura (Samsung AI) on "Highly Scalable Reasoning over Knowledge Bases via Trigger Graphs" ([slides]())
+> - Efi Tsamoura (Samsung AI) on "Highly Scalable Reasoning over Knowledge Bases via Trigger Graphs" ([slides](https://drive.google.com/file/d/1-MzglrT74kk0TFFYbXK7lpqYx4EZab1x/view?usp=drive_link))
 
-11:45 - 12:15 Coffee and Networking/Matchmaking activity (video: [presentation](), [camera]())
+11:45 - 12:15 Coffee and Networking/Matchmaking activity
 
-12:15 - 12:45   Short presentation/pitches (video: [presentation](), [camera]())
-> - Kalyan Dutia (Non-profit Climate Policy Radar) on "Building an Evidence Base of Global Climate Policy as a Knowledge Graph"
-> - Henriette Harmse (EMBL-EBI) on "New Features of the Ontology Lookup Service (OLS) Version 4" ([slides]())
-> - Ewan Mackie (JPMorgan Chase) on "Social Networks for Front-Office Sales Interactions" ([slides]())
+12:15 - 12:45   Short presentations/pitches II (video: [presentation](https://drive.google.com/file/d/1S_tOZgEwJQh1xooZwebkwqIEYHo_IJod/view?usp=drive_link), [camera](https://drive.google.com/file/d/1K2Yg3Ji2wcb4NggFr1WcgT0toSbGYFUQ/view?usp=drive_link))
+> - Kalyan Dutia (Non-profit Climate Policy Radar) on "Building an Evidence Base of Global Climate Policy as a Knowledge Graph" ([slides](https://drive.google.com/file/d/1axVW468pSeMok9dSN8wNRf2RNhus469U/view?usp=drive_link))
+> - Henriette Harmse (EMBL-EBI) on "New Features of the Ontology Lookup Service (OLS) Version 4" ([slides](https://drive.google.com/file/d/1xISo4z_Drx5rG29uZ7J8wPLj3Z1Dtlk0/view?usp=drive_link))
+> - Ewan Mackie (JPMorgan Chase) on "Social Networks for Front-Office Sales Interactions" ([slides](https://docs.google.com/presentation/d/1nG6MQmNwPBnLj-WvcNdtMmIhmmipxWKu/edit?usp=drive_link&ouid=107320364354662189717&rtpof=true&sd=true))
 
 12:45 - 13:45   Lunch and Networking
 
@@ -50,7 +50,7 @@
 > **Bio**: Lora Aroyo is a senior research scientist at Google Research where she leads the DEER team - Data Excellence for Evaluating Responsibly. Her team focuses on metrics and strategies to measure quality of human-labeled data in a reliable and transparent way - specifically interested in dealing with content ambiguity and rater disagreement. Prior to joining Google, Lora was a computer science professor heading the User-Centric Data Science research group at the VU University Amsterdam. She co-invented with Chris Welty the CrowdTruth crowdsourcing method and applied it in various domains such as digital humanities, medical and online multimedia. Lora guided the human-in-the-loop strategies as a Chief Scientist at a NY-based startup Tagasauris. Currently also president of the User Modeling Society.
 
 
-14:30 - 14:35	City's Women++ Computing Society by [Mai Elshehaly](http://www.invisai.com/mai/) (video: [presentation](), [camera]())
+14:30 - 14:35	City's Women++ Computing Society by [Mai Elshehaly](http://www.invisai.com/mai/) (video: [presentation](https://drive.google.com/file/d/1jUI6bzJTP3N_UaqrqNYCa96P1eujX5I2/view?usp=drive_link), [camera](https://drive.google.com/file/d/1Nv8yPniQ12ElbHr5CJFgT8CIhRHIvm--/view?usp=drive_link))
 
 14:35 - 15:15 	Poster session
 > - Enrico Daga (The Open University) on "Data integration with knowledge graphs: Façade-X and the SPARQL Anything project" ([poster](https://drive.google.com/file/d/1pvS1gJTE_l_sM2UK2aZFLUzXJ0zn6aAP/view?usp=drive_link))
@@ -64,19 +64,17 @@
 
 15:15 - 16:00  	Coffee and Networking/Matchmaking activity
 
-16:00 - 17:00  	NeSy session (video: [presentation](), [camera]())
+16:00 - 17:00  	NeSy session (video: [presentation](https://drive.google.com/file/d/14HNTUklx4tyTzoehkcICtBhRIEawShxe/view?usp=drive_link), [camera](https://drive.google.com/file/d/1t2YaKf3bFgY6w03eA_XV3bnzoO0LehVE/view?usp=drive_link))
 > - Introduction to The Turing interest group on [Neuro-symbolic AI](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai) by [Efi Tsamoura](https://www.turing.ac.uk/people/efthymia-tsamoura)
 > - Keynote by [Artur Garcez](http://www.staff.city.ac.uk/~aag/) (City, University of London) 
-> 	- **Title**: On Risk, Existential Risk and What is Left to Do in AI ([slides]())
+> 	- **Title**: On Risk, Existential Risk and What is Left to Do in AI ([slides](https://docs.google.com/presentation/d/1dg9lumXhv9F48Zj4hFub9VLvBrZMBpYL/edit?usp=drive_link&ouid=107320364354662189717&rtpof=true&sd=true))
 
-17:00 - 17:45  	Panel discussion (The future of Knowledge Graphs in the era of Deep Learning and Large Language Models) (video: [presentation](), [camera]())
+17:00 - 17:45  	Panel discussion (The future of Knowledge Graphs in the era of Deep Learning and Large Language Models) (video: [presentation](https://drive.google.com/file/d/1dULBiYSKMesR1mjbYBkV2VcaJS7WI_ny/view?usp=drive_link), [camera](https://drive.google.com/file/d/1tD91HskDjgZzxNyKf2dcw-aP9sxbY1N8/view?usp=drive_link))
 > - Chris Welty, Lora Aroyo, Artur Garcez, Efi Tsamoura, Ian Horrocks
 	
-17:45 - 18:00  	Closing (video: [presentation](), [camera]())
+17:45 - 18:00  	Closing ([slides](https://drive.google.com/file/d/1lx7Cxt4WD4W4rmv1lPl02DzdRtbN6Lkc/view?usp=drive_link), video: [presentation](https://drive.google.com/file/d/1OHynAARwUgy6BOy5qKrrMAWGmuminLhw/view?usp=drive_link), [camera](https://drive.google.com/file/d/15gQVEd_dnfBdcFbQ0iK2TLQOpRl6D4ie/view?usp=drive_link))
 > - Presentation of the [TGDK journal](https://tgdk.org/)
 > - Next steps
-
-
 
 
 
