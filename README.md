@@ -1,6 +1,6 @@
 Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-group-256569).
 
-### Upcoming event: 2nd Symposium
+### Upcoming event:
 
 - 7th Meet-up: most probably October/November (online) 
 
