@@ -2,21 +2,17 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event: 2nd Symposium
 
-- 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at the City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
-  - Format: in person (around 100 participants)
-  - Registration via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration closes on June 6th, 2023 (now closed).
-  - [Agenda](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md)
+- 7th Meet-up: most probably October/November (online) 
 
-    
 
 ### Last event: 
 
-- 6th Meet-up: **March 3** (12pm-2pm GMT), 2023. Online. [[Slides](https://drive.google.com/file/d/1IduSwNPF_kVBJO8v4bSL4EXdmdS-zh8F/view?usp=sharing)][[Cloud recording](https://city-ac-uk.zoom.us/rec/share/v8bx6xxf4RKk-JnFXVSBTi9z3JjKmWx3NI_dJK2zKzvSWdbwbnUtXZwrUEM12YvS.JNZDOL2Iv1GTaMAG) (Passcode: dur01VM#
-)][[Recording](https://drive.google.com/drive/folders/1FkB0ibErTDzhJWvJ7sooD40afnAcwlwO?usp=sharing)]
-  - Invited Speaker: Elena Simperl will talk about the [Dagstuhl Seminar](https://www.dagstuhl.de/22372) on **Knowledge Graphs and Their Role in the Knowledge Engineering of the 21st Century** [[Slides](https://drive.google.com/file/d/1eoQi4I7PmrD-2AaJcW-mm3Icm5kzE8mH/view?usp=sharing)] [[Dagstuhl report](https://drops.dagstuhl.de/opus/volltexte/2023/17810/)]
-  - Short presentations by participants.
-    - [John Domingue (KMI)](https://docs.google.com/presentation/d/19WIgr3IZYpIP_mWYE4tw-PR1NNKYpgBA/edit?usp=sharing&ouid=107320364354662189717&rtpof=true&sd=true)  
-    - [Nick Lynch (Curlew Research)](https://drive.google.com/file/d/1nJBkA08lBcfr1GSlkofUmpwtOI6qenj9/view?usp=sharing)
+- 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at the City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
+  - Format: in person (around 100 participants)
+  - Registration via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration is now closed.
+  - [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md)
+
+
     
 
 ### Symposiums
@@ -29,6 +25,13 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Meet-ups
 
+- 6th Meet-up: **March 3** (12pm-2pm GMT), 2023. Online. [[Slides](https://drive.google.com/file/d/1IduSwNPF_kVBJO8v4bSL4EXdmdS-zh8F/view?usp=sharing)][[Cloud recording](https://city-ac-uk.zoom.us/rec/share/v8bx6xxf4RKk-JnFXVSBTi9z3JjKmWx3NI_dJK2zKzvSWdbwbnUtXZwrUEM12YvS.JNZDOL2Iv1GTaMAG) (Passcode: dur01VM#
+)][[Recording](https://drive.google.com/drive/folders/1FkB0ibErTDzhJWvJ7sooD40afnAcwlwO?usp=sharing)]
+  - Invited Speaker: Elena Simperl will talk about the [Dagstuhl Seminar](https://www.dagstuhl.de/22372) on **Knowledge Graphs and Their Role in the Knowledge Engineering of the 21st Century** [[Slides](https://drive.google.com/file/d/1eoQi4I7PmrD-2AaJcW-mm3Icm5kzE8mH/view?usp=sharing)] [[Dagstuhl report](https://drops.dagstuhl.de/opus/volltexte/2023/17810/)]
+  - Short presentations by participants.
+    - [John Domingue (KMI)](https://docs.google.com/presentation/d/19WIgr3IZYpIP_mWYE4tw-PR1NNKYpgBA/edit?usp=sharing&ouid=107320364354662189717&rtpof=true&sd=true)  
+    - [Nick Lynch (Curlew Research)](https://drive.google.com/file/d/1nJBkA08lBcfr1GSlkofUmpwtOI6qenj9/view?usp=sharing)
+
 
 - 5th Meet-up: **October 27** (10:30am-4pm BST), 2022. In person at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
   - Participation: up to 45 (in-person) attendees and some sessions broadcasted online. 
@@ -37,7 +40,6 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
   - Format: Meet-up and attending together the last sessions of the [International Semantic Web Conference - ISWC (Virtual)](https://iswc2022.semanticweb.org/).
   - [Agenda and meet-up resources](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-5th-meetup.md).
   - [Photos](https://drive.google.com/drive/folders/1SUKJziNNK6smwMHSgRNfLAbC-_E0ejll?usp=sharing)
-
 
 
 - 4th Meet-up: April 8, 2022 (10am-12pm BST) (online)  
