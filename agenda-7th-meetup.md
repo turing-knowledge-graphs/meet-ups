@@ -27,6 +27,9 @@
 
 15:45 - 16:30   Coffee break and Networking
 
-16:30 - 17:15   Presentations from participants
+16:30 - 17:15   Presentations from participants (3 x 10min + 5min Q&A)
+  - Jiaoyan Chen (University of Manchester). Ontology Construction and Curation with (Large) Language Models
+  - Talk 2 TBD
+  - Talk 3 TBD
 
 17:15 - 17:30   Closing
