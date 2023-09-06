@@ -4,7 +4,7 @@
 - **Where:** [City, University of London](https://www.city.ac.uk/), Lecture Theatre C309, Tait Building. How to get to [Tait building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9). How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
 - **Format:** 50 participants <ins>in person</ins> and live-streamed for online participants. 
 - **Registration:** via [eventbrite](https://www.eventbrite.com/e/7th-meetup-knowledge-graphs-ig-tickets-713611239427) (Select "Get tickets").
-- **Live-stream:** Link TBA [access link](https://echo360.org.uk/section/3bbd7b48-19d9-4940-aa3c-e638c124c987/public) (questions via the slack channel).
+- **Live-stream:** [access link](https://echo360.org.uk/section/3bbd7b48-19d9-4940-aa3c-e638c124c987/public) (questions via the slack channel).
 
 
 ## Agenda
