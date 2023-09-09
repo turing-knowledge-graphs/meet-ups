@@ -7,7 +7,7 @@
 - **Live-stream:** [access link](https://echo360.org.uk/section/3bbd7b48-19d9-4940-aa3c-e638c124c987/public) (questions via the slack channel).
 
 
-## Tentative Agenda
+## Agenda
 
 14:00 - 14:30    Welcome and Coffee
 
@@ -27,9 +27,9 @@
 
 15:45 - 16:30   Coffee break and Networking
 
-16:30 - 17:15   Presentations from participants (3 x 10min + 5min Q&A)
-  - Jiaoyan Chen (University of Manchester). Ontology Construction and Curation with (Large) Language Models
-  - Talk 2 TBD
-  - Talk 3 TBD
+16:30 - 17:15   Presentations from members (3 x 10min + 5min Q&A)
+  - [Jiaoyan Chen](https://chenjiaoyan.github.io/) (University of Manchester). Ontology Construction and Curation with (Large) Language Models
+  - [Valentina Tamma](https://www.liverpool.ac.uk/computer-science/staff/valentina-tamma/) (University of Liverpool). TBA.
+  - [Peter Crocker](https://www.linkedin.com/in/peter-crocker/) ([Oxford Semantic Technologies (OST)](https://www.oxfordsemantic.tech/)). Using Semantic AI to Create Knowledge from Data.
 
 17:15 - 17:30   Closing
