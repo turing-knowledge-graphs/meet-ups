@@ -29,7 +29,7 @@
 
 16:30 - 17:15   Presentations from members (3 x 10min + 5min Q&A)
   - [Jiaoyan Chen](https://chenjiaoyan.github.io/) (University of Manchester). Ontology Construction and Curation with (Large) Language Models
-  - [Valentina Tamma](https://www.liverpool.ac.uk/computer-science/staff/valentina-tamma/) (University of Liverpool). Semi-automatic construction of KGs from XML data in the analytical laboratory domain.
+  - [Valentina Tamma](https://www.liverpool.ac.uk/computer-science/staff/valentina-tamma/) (University of Liverpool). What was their intent: unpicking ontology engineering decisions with LLMs.
   - [Peter Crocker](https://www.linkedin.com/in/peter-crocker/) ([Oxford Semantic Technologies (OST)](https://www.oxfordsemantic.tech/)). Using Semantic AI to Create Knowledge from Data.
 
 17:15 - 17:30   Closing
