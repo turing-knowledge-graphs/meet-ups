@@ -5,7 +5,7 @@
 - **Format:** 50 participants <ins>in person</ins> and live-streamed for online participants. 
 - **Registration:** via [eventbrite](https://www.eventbrite.com/e/7th-meetup-knowledge-graphs-ig-tickets-713611239427) (Select "Get tickets").
 - **Live-stream:** [access link](https://echo360.org.uk/section/3bbd7b48-19d9-4940-aa3c-e638c124c987/public) (questions via the slack channel).
-
+- **Photos:** [Photos taken during the meet-up](https://photos.app.goo.gl/PaXJ3VsmdquMxVyEA)
 
 ## Agenda
 
