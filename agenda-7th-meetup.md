@@ -11,9 +11,9 @@
 
 14:00 - 14:30    Welcome and Coffee
 
-14:30 - 14:45    Intro from organisers.
+14:30 - 14:45    Intro from organisers. ([slides](https://drive.google.com/file/d/1z0hJl9Vlgn6wsA4RCj3ERleDOzjsSl6a/view?usp=drive_link), video: [presentation](https://drive.google.com/file/d/1wgNl9AcZy5CYnSWxdRTjI5Ae9zFXwlVY/view?usp=drive_link), [camera](https://drive.google.com/file/d/1QxSsWlqbt4ADDfibzTV_JpuIJTRvr3R0/view?usp=drive_link))
 
-14:45 - 15:45    Keynote [Juan Sequeda](https://juansequeda.com/), the Principal Scientist and Head of the AI Lab at [data.world](https://data.world/)
+14:45 - 15:45    Keynote [Juan Sequeda](https://juansequeda.com/), the Principal Scientist and Head of the AI Lab at [data.world](https://data.world/). ([slides](), video: [presentation](https://drive.google.com/file/d/1GXWp1EnKqkp67txMG05UvjnX10Z8HBc8/view?usp=drive_link), [camera](https://drive.google.com/file/d/19GBJ-dQpaxLzq835pRN7Ba2_qlM6hlQ8/view?usp=drive_link))
 
 > **Title**:  Chat with the Data Benchmark: Understanding Synergies between Large Language Models and Knowledge Graphs for Enterprise Conversations
 
@@ -27,9 +27,9 @@
 
 15:45 - 16:30   Coffee break and Networking
 
-16:30 - 17:15   Presentations from members (10min + 5min Q&A)
-  - [Jiaoyan Chen](https://chenjiaoyan.github.io/) (University of Manchester). Ontology Construction and Curation with (Large) Language Models.
-  - [Valentina Tamma](https://www.liverpool.ac.uk/computer-science/staff/valentina-tamma/) (University of Liverpool). What was their intent: unpicking ontology engineering decisions with LLMs.
-  - [Peter Crocker](https://www.linkedin.com/in/peter-crocker/) ([Oxford Semantic Technologies (OST)](https://www.oxfordsemantic.tech/)). Using Semantic AI to Create Knowledge from Data.
+16:30 - 17:15   Presentations from members (10min + 5min Q&A). (video: [presentation](https://drive.google.com/file/d/1_-lvRMY4lDuYSLsegX9nC9sHPP44lsL8/view?usp=drive_link), [camera](https://drive.google.com/file/d/1w2tOJZoQUJwdcVr_Z2gEdhhoUQOXEAC7/view?usp=drive_link))
+  - [Jiaoyan Chen](https://chenjiaoyan.github.io/) (University of Manchester). Ontology Construction and Curation with (Large) Language Models. ([slides][https://drive.google.com/file/d/1K3pxxTgoOupYqzvNgH7EbtKEJw-oU-g9/view?usp=drive_link])
+  - [Valentina Tamma](https://www.liverpool.ac.uk/computer-science/staff/valentina-tamma/) (University of Liverpool). What was their intent: unpicking ontology engineering decisions with LLMs. ([slides][])
+  - [Peter Crocker](https://www.linkedin.com/in/peter-crocker/) ([Oxford Semantic Technologies (OST)](https://www.oxfordsemantic.tech/)). Using Semantic AI to Create Knowledge from Data. ([slides][])
 
-17:15 - 17:30   Closing
+17:15 - 17:30   Closing. ([slides](https://drive.google.com/file/d/1z0hJl9Vlgn6wsA4RCj3ERleDOzjsSl6a/view?usp=drive_link), video: [presentation](https://drive.google.com/file/d/12-_amAIhbNyuZKkDF5hnpM5k8Lb_VdbR/view?usp=drive_link), [camera](https://drive.google.com/file/d/1O0h7opbqr69K_YyunjhRTHFxNjxFvyfQ/view?usp=drive_link))
