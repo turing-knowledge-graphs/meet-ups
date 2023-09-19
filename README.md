@@ -10,7 +10,7 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 - 7th Meet-up: **September 18th 2023** (2:00pm-5:30pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
 - Format: in person (and live-streamed for online participants).
 - Registration via [eventbrite](https://www.eventbrite.com/e/7th-meetup-knowledge-graphs-ig-tickets-713611239427) (Select "Get tickets").
-- [Agenda and material](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md)
+- [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md)
 
 
 ### Symposiums
