@@ -2,7 +2,10 @@ Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-g
 
 ### Upcoming event:
 
-- 8th Meet-up: December 2023 or January 2024. Most probably online.
+- 8th Meet-up: **January 26th 2024** (1pm-2pm GMT)
+- Format: online meetup
+- Agenda
+- Registration
 
 
 ### Last event: 
