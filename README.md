@@ -1,11 +1,12 @@
-Events in [eventbrite](https://www.eventbrite.com/cc/knowledge-graphs-interest-group-256569).
-
 ### Upcoming event:
 
 - 8th Meet-up: **January 26th 2024** (1pm-2pm GMT)
 - Format: online meetup
 - Agenda
-- Registration
+  - Invited speaker: [Chiara Ghidini](https://pdi.fbk.eu/ghidini/)
+  - Short presentations by members
+  - Discussion about the group activities: AI UK Fringe Events.
+- Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
 
 
 ### Last event: 
