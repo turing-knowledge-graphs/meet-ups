@@ -1,6 +1,6 @@
 ### Upcoming event:
 
-- 8th Meet-up: **January 26th 2024** (1pm-2pm GMT)
+- 8th Meet-up: **January 26th 2024** (1pm-3pm GMT)
 - Format: online meetup
 - Agenda
   - Invited speaker: [Chiara Ghidini](https://pdi.fbk.eu/ghidini/)
