@@ -1,20 +1,27 @@
-### Upcoming event:
+### Upcoming events:
 
 - 8th Meet-up: **January 26th 2024** (1pm-3pm GMT)
-- Format: online meetup
-- Agenda
-  - Invited speaker: [Chiara Ghidini](https://pdi.fbk.eu/ghidini/)
-  - Short presentations by members
-  - Discussion about the group activities: AI UK Fringe Events.
-- Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
+  - Format: online meetup
+  - Agenda
+    - Invited speaker: [Chiara Ghidini](https://pdi.fbk.eu/ghidini/)
+    - Short presentations by members
+    - Discussion about the group activities: AI UK Fringe Events.
+  - Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
 
+- 3rd Symposium (proposed Turing AI UK Fringe event): **March 25th 2024**, University of Liverpool, UK
+    - Format: in person (around 100 participants) 
+    - Agenda
+      - Invited speaker: TBC
+      - Short presentations by members: call to be added
+      - [Fringe Event details](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md)
+      
 
 ### Last event: 
 
 - 7th Meet-up: **September 18th 2023** (2:00pm-5:30pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
-- Format: in person (and live-streamed for online participants).
-- Registration via [eventbrite](https://www.eventbrite.com/e/7th-meetup-knowledge-graphs-ig-tickets-713611239427) (Select "Get tickets").
-- [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md)
+  - Format: in person (and live-streamed for online participants).
+  - Registration via [eventbrite](https://www.eventbrite.com/e/7th-meetup-knowledge-graphs-ig-tickets-713611239427) (Select "Get tickets").
+  - [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md)
 
 
 ### Symposiums
