@@ -2,6 +2,8 @@
 
 *Proposed* [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
+Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
+
 Attendance to the event is open to everyone.
 
 - **When:** March 25, 2024 (9:00-17:15 GMT)
