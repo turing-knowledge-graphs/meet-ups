@@ -19,8 +19,10 @@ to model semantic business processes or exploit ontologies, such as the BPMN ont
 heir internal uses.
 
 13:55 - 14:55   Presentations from members (10min + 5min Q&A).
-  - [Jiaoyan Chen](https://chenjiaoyan.github.io/) (University of Manchester). Ontology Construction and Curation with (Large) Language Models. ([slides](https://drive.google.com/file/d/1K3pxxTgoOupYqzvNgH7EbtKEJw-oU-g9/view?usp=drive_link))
-  - [Valentina Tamma](https://www.liverpool.ac.uk/computer-science/staff/valentina-tamma/) (University of Liverpool). What was their intent: unpicking ontology engineering decisions with LLMs. ([slides](https://drive.google.com/file/d/1x2S-14WD9hg3W86WKWrut0lOrlnQxC1v/view?usp=drive_link))
-  - [Peter Crocker](https://www.linkedin.com/in/peter-crocker/) ([Oxford Semantic Technologies (OST)](https://www.oxfordsemantic.tech/)). Using Semantic AI to Create Knowledge from Data.
-
+  -  Ravindranath Akila	(Adimpression): How knowledge graphs could transform education.
+  -  Helen Jackson (ClimateNode): Using Knowledge Graphs and NLP for climate risk intelligence.
+  -  Jiaru Bai (University of Cambridge): A derived information framework for a dynamic knowledge graph.
+  
 14:55 - 15:00   Wrap-up. 
+- Presentation of the [Turing Fringe Event on KGs](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md).
+- Presentation of the 1st issue of the [Transactions on Graph Data and Knowledge journal](https://drops.dagstuhl.de/entities/issue/TGDK-volume-1-issue-1).
