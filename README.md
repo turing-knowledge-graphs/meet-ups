@@ -3,13 +3,10 @@
 - 8th Meet-up: **January 26th 2024** (1pm-3pm GMT)
   - Format: online meetup
   - Agenda
-    - Invited speaker: [Chiara Ghidini](https://pdi.fbk.eu/ghidini/)
-      > **Title**:  Data-aware Processes and their Executions: an opportunity for Knowledge Representation and Graphs?
-      
-      > **Abstract**: The worlds of Business Process Management (BPM) and Process Mining (ProM) has had only few connections with those of Information Extraction (IE), Knowledge Management (KM), and Semantic Web (SW). Indeed their intersections amounted in few attempts to model semantic business processes or exploit ontologies, such as the BPMN ontology, to reason on semantically enriched process models. One of the reasons of this distance might lie in the fact that the business process oriented communities were mainly focused on handling temporally oriented entities such as activities and their temporal (work)flows relations, while the knowledge oriented ones were mainly focused on the modelling and handling of static entities and relations. In the last few years nonetheless the two groups have started expanding their interests and this may end up in better connecting with each others. Indeed, the business process communities have started looking more and more towards multi-dimensional processes, characterised by a complex network of entities that go beyond the typical event-based ones and include data objects, resources, actors, goals, among others. At the same time the knowledge oriented one has shown a growing interest in temporally denoted entities such as events, stories and narratives. In this talk I will use some of our works on Semantic Modelling and Analysis of Complex Data-aware Processes and their Executions to try to highlight possible connections between these two worlds and challenges where an interaction may provide mutual benefits.
-
+    - Invited speaker: [Prof. Chiara Ghidini](https://www.unibz.it/en/faculties/engineering/academic-staff/person/49601-chiara-ghidini). Free University of Bozen-Bolzano, Bolzano, Italy.  
     - Short presentations by members
     - Discussion about the group activities: AI UK Fringe Events.
+    - Full agenda [here]().
   - Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
 
 - 3rd Symposium (proposed Turing AI UK Fringe event): **March 25th 2024**, University of Liverpool, UK
