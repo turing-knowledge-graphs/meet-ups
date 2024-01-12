@@ -6,7 +6,7 @@
     - Invited speaker: [Prof. Chiara Ghidini](https://www.unibz.it/en/faculties/engineering/academic-staff/person/49601-chiara-ghidini). Free University of Bozen-Bolzano, Bolzano, Italy.  
     - Short presentations by members
     - Discussion about the group activities: AI UK Fringe Events.
-    - Full agenda [here]().
+    - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-8th-meetup.md).
   - Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
 
 - 3rd Symposium (proposed Turing AI UK Fringe event): **March 25th 2024**, University of Liverpool, UK
