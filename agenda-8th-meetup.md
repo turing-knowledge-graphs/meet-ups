@@ -22,6 +22,7 @@ heir internal uses.
   -  Ravindranath Akila	(Adimpression): How knowledge graphs could transform education.
   -  Helen Jackson (ClimateNode): Using Knowledge Graphs and NLP for climate risk intelligence.
   -  Jiaru Bai (University of Cambridge): A derived information framework for a dynamic knowledge graph.
+  -  	Seyed Amir Hosseini Beghaeiraveri	(University of Edinburgh): Hierarchical Subsetting + Query Partitioning for Reasoning over Knowledge Graphs.
   
 14:55 - 15:00   Wrap-up. 
 - Presentation of the [Turing Fringe Event on KGs](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md).
