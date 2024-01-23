@@ -27,15 +27,15 @@ Attendance to the event is open to everyone.
 
 11:30-12:30 &ensp; Short Presentations from members (10min + 5 QA)
   
-12:30-13:45 &ensp; Lunch and Networking (1h15min)
+12:30-13:30 &ensp; Lunch and Networking (1hmin)
 
-13:45-14:30 &ensp; Keynote 2 (30 min + 15 min questions)
+13:30-14:15 &ensp; Keynote 2 (30 min + 15 min questions)
 
-14:30-15:30 &ensp; Short presentation from members (10min + 5 QA)
+14:15-15:15 &ensp; Panel about the Future of AI.
 
-15:30-16:30 &ensp; Coffee Break and Poster session (1h)
+15:15-16:15 &ensp; Coffee Break and Poster session (1h)
 
-16:30-17:00 &ensp; Panel about the Future of AI.
+16:15-17:00 &ensp; Short Presentations from members (10min + 5 QA)
 
 17:00-17:15 &ensp; Closing
  
