@@ -3,7 +3,7 @@
 - 8th Meet-up: **January 26th 2024** (1pm-3pm GMT)
   - Format: online meetup
   - Agenda
-    - Invited speaker: [Catia Pesquita](https://www.di.fc.ul.pt/~catiapesquita/). LASIGE, Informática, Faculdade de Ciências, Universidade de Lisboa, Portugal.
+    - Invited speaker: [Prof. Catia Pesquita](https://www.di.fc.ul.pt/~catiapesquita/). LASIGE, Informática, Faculdade de Ciências, Universidade de Lisboa, Portugal.
     - Short presentations by members
     - Discussion about the group activities: AI UK Fringe Events.
     - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-8th-meetup.md).
