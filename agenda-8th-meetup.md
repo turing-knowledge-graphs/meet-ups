@@ -8,7 +8,7 @@
 
 ## Agenda
 
-13:0 - 13:05    Welcome and intro from organisers.
+13:00 - 13:05    Welcome and intro from organisers.
 
 13:05 - 13:55    Keynote by [Prof. Catia Pesquita](https://www.di.fc.ul.pt/~catiapesquita/). LASIGE, Informática, Faculdade de Ciências, Universidade de Lisboa, Portugal.  (40min + 10min Q&A)
 
