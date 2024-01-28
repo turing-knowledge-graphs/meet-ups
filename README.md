@@ -1,15 +1,5 @@
 ### Upcoming events:
 
-- 8th Meet-up: **January 26th 2024** (1pm-3pm GMT)
-  - Format: online meetup
-  - Agenda
-    - Invited speaker: [Prof. Catia Pesquita](https://www.di.fc.ul.pt/~catiapesquita/). LASIGE, Informática, Faculdade de Ciências, Universidade de Lisboa, Portugal.
-    - Short presentations by members
-    - Discussion about the group activities: AI UK Fringe Events.
-    - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-8th-meetup.md).
-    - *(The talk by [Prof. Chiara Ghidini](https://www.unibz.it/en/faculties/engineering/academic-staff/person/49601-chiara-ghidini) has been postponed).*
-  - Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
-
 - 3rd Symposium (proposed Turing AI UK Fringe event): **March 25th 2024**, University of Liverpool, UK
     - Format: in person (around 100 participants) 
     - Agenda
@@ -20,10 +10,16 @@
 
 ### Last event: 
 
-- 7th Meet-up: **September 18th 2023** (2:00pm-5:30pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
-  - Format: in person (and live-streamed for online participants).
-  - Registration via [eventbrite](https://www.eventbrite.com/e/7th-meetup-knowledge-graphs-ig-tickets-713611239427) (Select "Get tickets").
-  - [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md)
+- 8th Meet-up: **January 26th 2024** (1pm-3pm GMT)
+  - Format: online meetup
+  - Agenda
+    - Invited speaker: [Prof. Catia Pesquita](https://www.di.fc.ul.pt/~catiapesquita/). LASIGE, Informática, Faculdade de Ciências, Universidade de Lisboa, Portugal.
+    - Short presentations by members
+    - Discussion about the group activities: AI UK Fringe Events.
+    - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-8th-meetup.md).
+    - *(The talk by [Prof. Chiara Ghidini](https://www.unibz.it/en/faculties/engineering/academic-staff/person/49601-chiara-ghidini) has been postponed).*
+  - Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
+  - Recordings: Link to [cloud recording](https://city-ac-uk.zoom.us/rec/share/nLd8NNX46yoKW_CDxKvq_4q9SzF2HYQObDJT9hnZlnAnBW3y1H9ZM8SUFC2ySfr0.BjwB_1tNwiKMq1ro)  (Passcode: kg-meetup-8). Link to [public material](https://drive.google.com/drive/folders/1Gr0O6M3WCSm5I4Z0oFvGasEcyNAbHWme?usp=sharing) (Google drive).
 
 
 ### Symposiums
@@ -42,6 +38,12 @@
 
 
 ### Meet-ups
+
+- 7th Meet-up: **September 18th 2023** (2:00pm-5:30pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
+  - Format: in person (and live-streamed for online participants).
+  - Registration via [eventbrite](https://www.eventbrite.com/e/7th-meetup-knowledge-graphs-ig-tickets-713611239427) (Select "Get tickets").
+  - [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md)
+
 
 - 6th Meet-up: **March 3** (12pm-2pm GMT), 2023. Online. [[Slides](https://drive.google.com/file/d/1IduSwNPF_kVBJO8v4bSL4EXdmdS-zh8F/view?usp=sharing)][[Cloud recording](https://city-ac-uk.zoom.us/rec/share/v8bx6xxf4RKk-JnFXVSBTi9z3JjKmWx3NI_dJK2zKzvSWdbwbnUtXZwrUEM12YvS.JNZDOL2Iv1GTaMAG) (Passcode: dur01VM#
 )][[Recording](https://drive.google.com/drive/folders/1FkB0ibErTDzhJWvJ7sooD40afnAcwlwO?usp=sharing)]
