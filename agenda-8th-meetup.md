@@ -4,7 +4,7 @@
 - **Format:** online.
 - **Where:** Zoom
 - **Registration:** via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
-- **Recording:** TBA
+- **Recording:** Link to [cloud recording](https://city-ac-uk.zoom.us/rec/share/nLd8NNX46yoKW_CDxKvq_4q9SzF2HYQObDJT9hnZlnAnBW3y1H9ZM8SUFC2ySfr0.BjwB_1tNwiKMq1ro)  (Passcode: kg-meetup-8). Link to [public material](https://drive.google.com/drive/folders/1Gr0O6M3WCSm5I4Z0oFvGasEcyNAbHWme?usp=sharing) (Google drive).
 
 ## Agenda
 
