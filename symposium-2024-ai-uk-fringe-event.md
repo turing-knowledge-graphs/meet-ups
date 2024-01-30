@@ -23,7 +23,7 @@ Attendance to the event is open to everyone.
 
 9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions)
 
-10:30-11:30 &ensp; Coffe break and Poster session (1h)
+10:30-11:30 &ensp; Coffee break and Poster session (1h)
 
 11:30-12:30 &ensp; Short Presentations from members (10min + 5 QA)
   
