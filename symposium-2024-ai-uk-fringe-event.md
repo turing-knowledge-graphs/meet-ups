@@ -9,9 +9,9 @@ Attendance to the event is open to everyone.
 - **When:** March 25, 2024 (9:00-17:15 GMT)
 - **Where:** University of Liverpool.
 - **Format:** Up to 100 participants <ins>in person</ins>.
-- **Registration:** TBA
+- **Registration:** Please register [here](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024)
 - **Live-stream and full recording:** TBA
-- **Photos:** TBA
+- **Media:** TBA
 
 **Call for pesentations and/or posters**: please register your interest here (TBC). Deadline February 29, 2024.
 
