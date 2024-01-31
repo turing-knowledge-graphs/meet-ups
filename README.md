@@ -1,6 +1,6 @@
 ### Upcoming events:
 
-- 3rd Symposium (proposed Turing AI UK Fringe event): **March 25th 2024**, University of Liverpool, UK
+- 3rd Symposium (proposed Turing AI UK Fringe event): **March 25th 2024**, **University of Liverpool, UK**
     - Format: in person (around 100 participants)
     - Registration: £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).
     - Agenda
