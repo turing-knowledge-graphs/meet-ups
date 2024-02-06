@@ -1,6 +1,7 @@
-# 3rd Annual Symposium of The Turing Interest Group on Knowledge Graphs (AI UK Fringe Event 2024)
+# Knowledge Graphs in the Wild  (AI UK Fringe Event 2024)
+### 3rd Annual Symposium of The Turing Interest Group on Knowledge Graphs
 
-*Proposed* [Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
+[Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
 
