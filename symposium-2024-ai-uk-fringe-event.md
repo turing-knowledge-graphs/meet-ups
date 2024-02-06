@@ -39,4 +39,10 @@ Attendance to the event is open to everyone.
 16:15-17:00 &ensp; Short Presentations from members (10min + 5 QA)
 
 17:00-17:15 &ensp; Closing
+
+
+<br>
+<p align="center">
+<img src="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png?raw=true" width="550" alt="fringe">
+</p>
  
