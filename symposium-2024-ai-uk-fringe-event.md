@@ -1,14 +1,14 @@
 # Knowledge Graphs in the Wild  (AI UK Fringe Event 2024)
 ### 3rd Annual Symposium of The Turing Interest Group on Knowledge Graphs
 
-[Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
+[Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) at the **University of Liverpool** to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
 
 Attendance to the event is open to everyone.
 
 - **When:** March 25, 2024 (9:00-17:15 GMT)
-- **Where:** University of Liverpool.
+- **Where:** University of Liverpool, [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
 - **Format:** Up to 100 participants <ins>in person</ins>.
 <!--**Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
 - **Live-stream and full recording:** TBA
