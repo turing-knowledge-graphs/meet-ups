@@ -14,7 +14,7 @@ Attendance to the event is open to everyone.
 - **Live-stream and full recording:** TBA
 - **Media:** TBA
 
-**Registration and Call for pesentations and/or posters**: please register here [https://forms.office.com/e/AsZ5EquRi7](). Deadline March 8, 2024.
+**Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). Deadline March 8, 2024.
 
 ## Agenda (Tentative)
 
