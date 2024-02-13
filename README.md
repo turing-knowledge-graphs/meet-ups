@@ -12,6 +12,7 @@
 - 1st Symposium on Knowledge Graphs and Ontologies in Intelligence, Defence, and Security
     - Where: Cheltenham Racecourse in Gloucestershire
     - When: **18th June 2024**
+    - Organisers: The Defence Science and Technology Laboratory ([Dstl](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory))
     - Agenda: Keynote speech from [Alex van Someren](https://www.gov.uk/government/people/alex-van-someren) (Chief Scientific Advisor for National Security) and invited talks from prominent UK academics, industry partners, and others.
     - Registration: [https://forms.office.com/e/WGttFdmzHF](https://forms.office.com/e/WGttFdmzHF) (deadline Friday 29th March 2024)
     - Contact and call for posters: [knowledgegraphsandontologiessymposium@dstl.gov.uk](mailto:knowledgegraphsandontologiessymposium@dstl.gov.uk) 
