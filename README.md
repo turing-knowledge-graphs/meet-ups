@@ -1,13 +1,20 @@
 ### Upcoming events:
 
-- 3rd Symposium (proposed Turing AI UK Fringe event): **March 25th 2024**, **University of Liverpool, UK**. [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
+- 3rd Symposium (Turing AI UK Fringe event): **March 25th 2024**, **University of Liverpool, UK**. [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
     - Format: in person (around 100 participants)
     <!-- Registration: £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
     - **Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). Deadline March 8, 2024.
     - Agenda
       - Invited speakers: TBC      
       - [Full Fringe event details](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md)
-      
+
+### Relevant events:
+- 1st Symposium on Knowledge Graphs and Ontologies in Intelligence, Defence, and Security
+    - Where: Cheltenham Racecourse in Gloucestershire
+    - When: **18th June 2024**
+    - Agenda: Keynote speech from [Alex van Someren](https://www.gov.uk/government/people/alex-van-someren) (Chief Scientific Advisor for National Security) and invited talks from prominent UK academics, industry partners, and others.
+    - Registration: [https://forms.office.com/e/WGttFdmzHF](https://forms.office.com/e/WGttFdmzHF) (deadline Friday 29th March 2024)
+    - Contact and call for posters: [knowledgegraphsandontologiessymposium@dstl.gov.uk](mailto:knowledgegraphsandontologiessymposium@dstl.gov.uk) 
 
 ### Last event: 
 
