@@ -43,6 +43,6 @@ Attendance to the event is open to everyone.
 
 <br>
 <p align="center">
-<img src="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png?raw=true" width="550" alt="fringe">
+<a href="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png"><img src="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png?raw=true" width="550" alt="fringe"></a>
 </p>
  
