@@ -1,7 +1,7 @@
 # Knowledge Graphs in the Wild  (AI UK Fringe Event 2024)
 ### 3rd Annual Symposium of The Turing Interest Group on Knowledge Graphs
 
-[Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) at the **University of Liverpool** to be collocated with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
+[Fringe Event](https://ai-uk.turing.ac.uk/fringe-events/) at the **University of Liverpool** to be co-located with the [AI UK conference](https://ai-uk.turing.ac.uk/) orgainsed by [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs).
 
@@ -15,7 +15,7 @@ Attendance to the event is open to everyone.
 - **Live-stream and full recording:** [Zoom link](https://liverpool-ac-uk.zoom.us/j/92528796283?pwd=V1Q2SHJpTzVSMFBCMzBJTzRQUjljQT09)
 - **Media:** TBA
 
-**Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). 
+**Registration, Sponsorship and Call for presentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). 
 - **Deadline** March 8, 2024. **Only for in-person attendance**.
 - **Local information**: [Visit Liverpool](https://www.visitliverpool.com/)
 - **Accommodation**: The University has reserved 15 rooms at the [Liner hotel](https://www.theliner.co.uk) (room + breakfast £ 80), that is located next to Lime Street Railway Station, and 10 minutes walk from the venue. Book directly with the hotel with reservation code **0324UOLC**
@@ -48,8 +48,10 @@ Attendance to the event is open to everyone.
 17:00-17:15 &ensp; Closing
 
 
+The event is supported by the [Digital Research Theme at the University of Liverpool](https://www.liverpool.ac.uk/research/research-themes/digital/) and [Liverpool Women in Science and Engineering, LivWiSE](https://www.liverpool.ac.uk/liverpool-women-in-science-and-engineering/)
+
 <br>
 <p align="center">
-<a href="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png"><img src="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png?raw=true" width="550" alt="fringe"></a>
+<a href="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png"><img src="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png?raw=true" width="880" alt="fringe"></a>
 </p>
  
