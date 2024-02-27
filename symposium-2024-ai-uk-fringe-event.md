@@ -11,7 +11,7 @@ Attendance to the event is open to everyone.
 - **Where:** University of Liverpool, [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
 - **Format:** Up to 100 participants <ins>in person</ins>.
 <!--**Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
-- **Live-stream and full recording:** TBA
+- **Live-stream and full recording:** [Zoom link](https://liverpool-ac-uk.zoom.us/j/92528796283?pwd=V1Q2SHJpTzVSMFBCMzBJTzRQUjljQT09)
 - **Media:** TBA
 
 **Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). Deadline March 8, 2024. **Only for in-person attendance**.
