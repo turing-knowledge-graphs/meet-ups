@@ -8,13 +8,19 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 Attendance to the event is open to everyone.
 
 - **When:** March 25, 2024 (9:00-17:15 GMT)
-- **Where:** University of Liverpool, [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
+- **Where:** University of Liverpool, **G-Flex, Central Teaching Hub**, L69 7BX, [(Building 802 on the Campus Map)](https://www.liverpool.ac.uk/files/docs/maps/liverpool-university-campus-map.pdf).
+  - **Directions**: [Directions for the University and information regarding car parks](https://www.liverpool.ac.uk/maps/visiting/)
 - **Format:** Up to 100 participants <ins>in person</ins>.
 <!--**Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
 - **Live-stream and full recording:** [Zoom link](https://liverpool-ac-uk.zoom.us/j/92528796283?pwd=V1Q2SHJpTzVSMFBCMzBJTzRQUjljQT09)
 - **Media:** TBA
 
-**Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). Deadline March 8, 2024. **Only for in-person attendance**.
+**Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). 
+- **Deadline** March 8, 2024. **Only for in-person attendance**.
+- **Local information**: [Visit Liverpool](https://www.visitliverpool.com/)
+- **Accommodation**: The University has reserved 15 rooms at the [Liner hotel](https://www.theliner.co.uk) (room + breakfast £ 80), that is located next to Lime Street Railway Station, and 10 minutes walk from the venue. Book directly with the hotel with reservation code **0324UOLC**
+- **Travel grants**: We have up to 15 travel grants of £ 100 to support the participation of PhD students and Early career researchers.
+  - To apply email the [Interest Group organisers](mailto:knowledgegraphs_tig@turing.ac.uk) with the following information: (1) full name, (2) institution, (3) if you are a PhD or a postdoc and (4) title of your presentation/poster. 
 
 ## Agenda (Tentative)
 
@@ -22,7 +28,8 @@ Attendance to the event is open to everyone.
 
 9:30-09:45 &ensp; Welcome to the Fringe event.
 
-9:45-10:30 &ensp; Keynote 1 (30 min + 15 min questions)
+9:45-10:30 &ensp; Keynote 1: [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org) 
+- **Title**: TBA
 
 10:30-11:30 &ensp; Coffee break and Poster session (1h)
 
