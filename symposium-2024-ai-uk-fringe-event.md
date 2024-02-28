@@ -35,7 +35,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 9:30-09:45 &ensp; Welcome to the Fringe event.
 
-9:45-10:30 &ensp; Keynote 1: [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org), King's College London
+9:45-10:30 &ensp; Keynote 1: [Albert Meroño Peñuela](https://www.albertmeronyo.org), King's College London
 - **Title**: TBC
 
 10:30-11:30 &ensp; Coffee break and Poster session (1h)
@@ -44,7 +44,8 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
   
 12:30-13:30 &ensp; Lunch and Networking (1hmin)
 
-13:30-14:15 &ensp; Keynote 2 (30 min + 15 min questions)
+13:30-14:15 &ensp; Keynote 2: [Uli Sattler](http://www.cs.man.ac.uk/~sattler/), University of Manchester
+- **Title**: TBC
 
 14:15-15:15 &ensp; **Panel about the Future of AI**<br>
 KGs are seen as an enabling technology for many intelligent applications. The panel explores what the AI landscape is likely to be in the, future, the role KGs will play and the impact AI will have in different areas.
