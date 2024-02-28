@@ -1,7 +1,7 @@
 # Knowledge Graphs in the Wild  (AI UK Fringe Event 2024)
 
 <p align="center">
-<a href="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png"><img src="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png?raw=true" width="990" alt="fringe"></a>
+<a href="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md#3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs"><img src="https://github.com/turing-knowledge-graphs/meet-ups/blob/main/ai-kg-fringe.png?raw=true" width="900" alt="fringe"></a>
 
   ## 3rd Annual Symposium of The Turing Interest Group on Knowledge Graphs
   
