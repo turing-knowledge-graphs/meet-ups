@@ -15,8 +15,8 @@ Attendance to the event is open to everyone.
 - **Live-stream and full recording:** [Zoom link](https://liverpool-ac-uk.zoom.us/j/92528796283?pwd=V1Q2SHJpTzVSMFBCMzBJTzRQUjljQT09)
 - **Media:** TBA
 
-**Registration, Sponsorship and Call for presentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7). 
-- **Deadline** March 8, 2024. **Only for in-person attendance**.
+**Registration, Sponsorship and Call for presentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7) (Only for in-person attendance)
+- **Deadline** March 8, 2024.
 - **Local information**: [Visit Liverpool](https://www.visitliverpool.com/)
 - **Accommodation**: The University has reserved 15 rooms at the [Liner hotel](https://www.theliner.co.uk) (room + breakfast £ 80), that is located next to Lime Street Railway Station, and 10 minutes walk from the venue. Book directly with the hotel with reservation code **0324UOLC**
 - **Travel grants**: We have up to 15 travel grants of £ 100 to support the participation of PhD students and Early career researchers.
