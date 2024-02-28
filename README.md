@@ -5,7 +5,7 @@
     <!-- Registration: £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
     - **Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7) (only if you are attending in person). Deadline March 8, 2024.
     - Agenda
-      - Invited speakers: [Uli Sattler](http://www.cs.man.ac.uk/~sattler/) (University of Manchester) and [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org) (King's College London)
+      - Invited speakers: [Prof. Uli Sattler](http://www.cs.man.ac.uk/~sattler/) (University of Manchester) and [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org) (King's College London)
       - [Full Fringe event details](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md)
 
 ### Relevant events:
