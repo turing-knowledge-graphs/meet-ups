@@ -48,7 +48,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 - **Title**: TBC
 
 14:15-15:15 &ensp; **Panel about the Future of AI**<br>
-KGs are seen as an enabling technology for many intelligent applications. The panel explores what the AI landscape is likely to be in the, future, the role KGs will play and the impact AI will have in different areas.
+KGs are seen as an enabling technology for many intelligent applications. The panel explores what the AI landscape is likely to be in the future, the role KGs will play and the impact AI will have in different areas.
 
 15:15-16:15 &ensp; Coffee Break and Poster session (1h)
 
