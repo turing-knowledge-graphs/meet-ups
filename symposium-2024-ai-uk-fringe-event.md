@@ -26,7 +26,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 - **Accommodation**: For attendees requiring accommodation
   - 15 rooms are reserved at the [Liner hotel](https://www.theliner.co.uk) (Bed & Breakfast £ 80), located next to Lime Street Railway Station, and 10 minutes walk from the venue. Book directly with the hotel with reservation code **0324UOLC**
   - 12 rooms are reserved at the [Novotel Paddington Village](https://all.accor.com/hotel/B737/index.en.shtml) (Bed & Breakfast £ 80), located near The University of Liverpool campus, and 5 minutes walk from the venue. Book directly with the hotel with reservation code **619221**
-- **Travel grants**: Up to 15 travel grants of £ 100  are available to support the participation of PhD students and Early career researchers.
+- **Travel grants**: Up to 15 travel grants of £ 100  are available to support the participation of PhD students.
   - To apply email the [Interest Group organisers](mailto:knowledgegraphs_tig@turing.ac.uk) with the following information: (1) full name, (2) institution, (3) if you are a PhD or a postdoc and (4) title of your presentation/poster. 
 
 ## Agenda (Tentative)
