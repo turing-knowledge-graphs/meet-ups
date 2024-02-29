@@ -47,7 +47,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 13:30-14:15 &ensp; Keynote 2: [Uli Sattler](http://www.cs.man.ac.uk/~sattler/), University of Manchester
 - **Title**: TBC
 
-14:15-15:15 &ensp; **Panel about the Future of AI**<br>
+14:15-15:15 &ensp; **Panel about the Future of AI and the role of KGs**<br>
 KGs are seen as an enabling technology for many intelligent applications. The panel explores what the AI landscape is likely to be in the future, the role KGs will play and the impact AI will have in different areas.
 
 15:15-16:15 &ensp; Coffee Break and Poster session (1h)
