@@ -20,8 +20,9 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
   - **Passcode**: KG-Symp0s1
 <!-- - **Media:** TBA -->
 
-**Registration, Sponsorship and Call for presentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7) (Only for in-person attendance)
-- **Deadline** March 8, 2024.
+**Registration, Sponsorship and Call for presentations and/or posters**: 
+- **Registration form** [here](https://forms.office.com/e/AsZ5EquRi7) (Only for in-person attendance)
+  - **Deadline** March 10, 2024.
 - **Local information**: [Visit Liverpool](https://www.visitliverpool.com/)
 - **Accommodation**: For attendees requiring accommodation
   - 15 rooms are reserved at the [Liner hotel](https://www.theliner.co.uk) (Bed & Breakfast £ 80), located next to Lime Street Railway Station, and 10 minutes walk from the venue. Book directly with the hotel with reservation code **0324UOLC**
