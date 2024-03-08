@@ -36,7 +36,10 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 9:30-09:45 &ensp; Welcome to the Fringe event.
 
 9:45-10:30 &ensp; Keynote 1: [Albert Meroño Peñuela](https://www.albertmeronyo.org), King's College London
-- **Title**: TBC
+- **Title**: Not Just Graph Databases: Enabling Cultural Intelligence with Multimodal Knowledge Graphs
+- **Abstract**: Knowledge Graphs—graph-shaped knowledge bases that integrate distributed datasets into semantic representations—have demonstrated their impact in the world and are now central in Web search (knowledge panels), virtual assistants, etc. However, we tend to assume that the knowledge that ends up in knowledge graphs comes from particular representations, mostly text or structured databases. At the same time, a sizable number of the use cases in which we deploy KGs have the same unimodal assumption (text/structured data). In this talk, I will challenge these views with the notion of Multimodal Knowledge Graphs (MMKGs), arguing that important knowledge of the world comes from alternative representations (such as music, sound, and images), and that multimodality can enable better access to knowledge for all. I will showcase MMKGs in the domains of digital humanities and cultural heritage as key enablers of intelligent cultural applications.
+- **Bio**: Dr Albert Meroño-Peñuela is a Lecturer (Assistant Professor) in Computer Science and Knowledge Engineering at the Department of Informatics of King's College London (United Kingdom). His research revolves around the relations between Artificial Intelligence and culture, in particular the semantics of music, multimodal knowledge graphs, and knowledge representation and reasoning for digital humanities and cultural heritage. He has done work in various areas of the semantic web, most prominently in Web Data APIs over RDF Knowledge Graphs.
+ 
 
 10:30-11:30 &ensp; Coffee break and Poster session (1h)
 
