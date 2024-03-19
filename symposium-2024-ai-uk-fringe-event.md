@@ -49,7 +49,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 - Jiaru Bai, University of Cambridge: **A dynamic knowledge graph approach to distributed self-driving laboratories**
 - Simon Rihm, University of Cambridge: **Using dynamic knowledge graphs to automate research support tasks**
   
-12:30-13:30 &ensp; Lunch and Networking (1hmin)
+12:30-13:30 &ensp; Lunch and Networking (1h)
 
 13:30-14:15 &ensp; Keynote 2: [Uli Sattler](http://www.cs.man.ac.uk/~sattler/), University of Manchester
 - **Title**: ***Background Knowledge, Graphs, and Ontologies: Potential and Challenges for Using Knowledge***
