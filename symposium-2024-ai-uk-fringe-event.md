@@ -44,7 +44,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 10:30-11:30 &ensp; Coffee break and Poster session (1h)
 
 11:30-12:30 &ensp; Short Presentations from members (10min + 5 QA)
-- Jacopo de Berardinis, University of Manchester: **KGs for Responsible Generative Music AI** (title tbc)
+- Jacopo deBerardinis, University of Manchester: **KGs for Responsible Generative Music AI**
 - Joseph Dimos, Common Action: **Climate dynamics and its argumentation, a synthesis of temporal logic and graphs in representing belief about climate problems**
 - Jiaru Bai, University of Cambridge: **A dynamic knowledge graph approach to distributed self-driving laboratories**
 - Simon Rihm, University of Cambridge: **Using dynamic knowledge graphs to automate research support tasks**
