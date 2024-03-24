@@ -66,7 +66,7 @@ KGs are seen as an enabling technology for many intelligent applications. The pa
 16:15-17:00 &ensp; Short Presentations from members (10min + 5 QA)
 - Oliver Lloyd, University of Bristol: **Tensor Factorisation for Polypharmacy Side Effect Prediction**
 - Zhijin Guo, University of Bristol: **Understanding Compositionality in Knowledge Graph Embedding**
-- Mohammad Beit-Sadi, BAE Systems: **Knowledge graphs & Graph ML at BAE System**
+- Mohammad Beit-Sadi, BAE Systems: **Knowledge graphs & Graph ML at BAE Systems**
 
 17:00-17:15 &ensp; Closing
 
