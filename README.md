@@ -12,15 +12,7 @@
           > **Bio**: Juan Sequeda is the Principal Scientist and Head of the AI Lab at data.world. He holds a PhD in Computer Science from The University of Texas at Austin. Juan’s research and     industry work has been on the intersection of data and AI, with the goal to reliably create knowledge from inscrutable data, specifically designing and building Knowledge Graph for enterprise data and metadata management. Juan is the co-author of the book [“Designing and Building Enterprise Knowledge Graph”](https://www.amazon.com/Designing-Enterprise-Knowledge-Synthesis-Semantics/dp/1636391745) and the co-host of [Catalog and Cocktails, an honest, no-bs, non-salesy data podcast](https://data.world/podcasts/).
 
         - 17:00-18:00    Networking
-
-### Relevant events:
-- 1st Symposium on Knowledge Graphs and Ontologies in Intelligence, Defence, and Security
-    - Where: Cheltenham Racecourse in Gloucestershire
-    - When: **18th June 2024**
-    - Organisers: The Defence Science and Technology Laboratory ([Dstl](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory))
-    - Agenda: Keynote speech from [Alex van Someren](https://www.gov.uk/government/people/alex-van-someren) (Chief Scientific Advisor for National Security) and invited talks from prominent UK academics, industry partners, and others.
-    - Registration: [https://forms.office.com/e/WGttFdmzHF](https://forms.office.com/e/WGttFdmzHF) (deadline Friday 29th March 2024)
-    - Contact and call for posters: [knowledgegraphsandontologiessymposium@dstl.gov.uk](mailto:knowledgegraphsandontologiessymposium@dstl.gov.uk) 
+           
 
 ### Last event: 
 
