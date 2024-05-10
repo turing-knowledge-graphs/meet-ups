@@ -7,7 +7,7 @@
         - 15:30-16:00    Coffee and Networking
         - 16:00-17:00    Talk by [Juan Sequeda](https://juansequeda.com/), the Principal Scientist and Head of the AI Lab at [data.world](https://data.world/)
 
-          > **Title**:  TBC, a follow up to his talk in [September](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md). 
+          > **Title**:  TBC, a follow up to his talk on the *Synergies between Large Language Models and Knowledge Graphs* in [September](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md). 
 
           > **Bio**: Juan Sequeda is the Principal Scientist and Head of the AI Lab at data.world. He holds a PhD in Computer Science from The University of Texas at Austin. Juan’s research and     industry work has been on the intersection of data and AI, with the goal to reliably create knowledge from inscrutable data, specifically designing and building Knowledge Graph for enterprise data and metadata management. Juan is the co-author of the book [“Designing and Building Enterprise Knowledge Graph”](https://www.amazon.com/Designing-Enterprise-Knowledge-Synthesis-Semantics/dp/1636391745) and the co-host of [Catalog and Cocktails, an honest, no-bs, non-salesy data podcast](https://data.world/podcasts/).
 
