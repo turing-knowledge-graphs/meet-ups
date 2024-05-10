@@ -1,6 +1,6 @@
 ### Upcoming events:
 
-- 9th Meet-up: **May 20th 2024** (3:30pm-6pm GMT) at City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  How to get to the B200 (TBA)
+- 9th Meet-up: **May 20th 2024** (3:30pm-6pm BST) at City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  How to get to the B200 (TBA)
     - **Registration** via this [form](https://forms.office.com/e/ZyTtJdWVis) (only for in-person attendance).
     - Live-stream and full recording: [access link TBA]() 
     - Agenda:
