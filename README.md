@@ -2,7 +2,7 @@
 
 - 9th Meet-up: **May 20th 2024** (3:30pm-6pm BST) at City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  How to get to the B200 (TBA)
     - **Registration** via this [form](https://forms.office.com/e/ZyTtJdWVis) (only for in-person attendance).
-    - Live-stream and full recording: [access link TBA]() 
+    - Live-stream and full recording: [access link](https://echo360.org.uk/section/5e35847f-eb8f-4533-b886-f34fb4a0d601/public) 
     - Agenda:
         - 15:30-16:00    Coffee and Networking
         - 16:00-17:00    Talk by [Juan Sequeda](https://juansequeda.com/), the Principal Scientist and Head of the AI Lab at [data.world](https://data.world/)
