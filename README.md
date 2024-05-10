@@ -1,12 +1,16 @@
 ### Upcoming events:
 
-- 3rd Symposium on Knowlkedge Graphs in the Wild (Turing AI UK Fringe event): **March 25th 2024**, **University of Liverpool, UK**. [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
-    - Format: in person (around 100 participants)
-    <!-- Registration: £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
-    - **Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7) (only if you are attending in person). Deadline March 8, 2024.
-    - Agenda
-      - Invited speakers: [Prof. Uli Sattler](http://www.cs.man.ac.uk/~sattler/) (University of Manchester) and [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org) (King's College London)
-      - [Full Fringe event details](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md)
+- 9th Meet-up: **May 20th 2024** (3:30pm-6pm GMT) at City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  How to get to the B200 (TBA)
+    - Registration via this [form](https://forms.office.com/e/ZyTtJdWVis). 
+    - Agenda:
+        - 15:30-16:00    Coffee and Networking
+        - 16:00-17:00    Talk by [Juan Sequeda](https://juansequeda.com/), the Principal Scientist and Head of the AI Lab at [data.world](https://data.world/)
+
+          > **Title**:  TBC, a follow up to his talk in [September](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-7th-meetup.md). 
+
+          > **Bio**: Juan Sequeda is the Principal Scientist and Head of the AI Lab at data.world. He holds a PhD in Computer Science from The University of Texas at Austin. Juan’s research and     industry work has been on the intersection of data and AI, with the goal to reliably create knowledge from inscrutable data, specifically designing and building Knowledge Graph for enterprise data and metadata management. Juan is the co-author of the book [“Designing and Building Enterprise Knowledge Graph”](https://www.amazon.com/Designing-Enterprise-Knowledge-Synthesis-Semantics/dp/1636391745) and the co-host of [Catalog and Cocktails, an honest, no-bs, non-salesy data podcast](https://data.world/podcasts/).
+
+        - 17:00-18:00    Networking
 
 ### Relevant events:
 - 1st Symposium on Knowledge Graphs and Ontologies in Intelligence, Defence, and Security
@@ -19,6 +23,32 @@
 
 ### Last event: 
 
+- 3rd Symposium on Knowlkedge Graphs in the Wild (Turing AI UK Fringe event): **March 25th 2024**, **University of Liverpool, UK**. [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
+    - Format: in person (around 100 participants)
+    <!-- Registration: £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
+    - **Registration and Call for pesentations and/or posters**: please register [here](https://forms.office.com/e/AsZ5EquRi7) (only if you are attending in person). Deadline March 8, 2024.
+    - Agenda
+      - Invited speakers: [Prof. Uli Sattler](http://www.cs.man.ac.uk/~sattler/) (University of Manchester) and [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org) (King's College London)
+      - [Full Fringe event details](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md)
+
+
+
+### Symposiums
+
+- 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
+  - Format: in person (around 100 participants)
+  - Registration via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration is now closed.
+  - [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md)
+
+- 1st Symposium: **June 17th** 2022 (10am-4pm BST), at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
+  - Format: up to 45 participants in person, broadcasted online.
+  - Registration via [eventbrite](https://www.eventbrite.co.uk/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277). In person registration closes on June 3rd, 2022. Because of space constraints, maximum 2 people per organisation or group may attend in person. 
+  - [Agenda and slides](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2022.md).
+  - [Photos](https://drive.google.com/drive/folders/1pEQPVm2BKBy3yzyLBGPM-tUUHi3NR1_f?usp=sharing)
+
+
+### Meet-ups
+
 - 8th Meet-up: **January 26th 2024** (1pm-3pm GMT)
   - Format: online meetup
   - Agenda
@@ -29,24 +59,6 @@
     - *(The talk by [Prof. Chiara Ghidini](https://www.unibz.it/en/faculties/engineering/academic-staff/person/49601-chiara-ghidini) has been postponed).*
   - Registration via this [form](https://forms.gle/8EU4EuAxkw6awr1JA).
   - Recordings: Link to [cloud recording](https://city-ac-uk.zoom.us/rec/share/nLd8NNX46yoKW_CDxKvq_4q9SzF2HYQObDJT9hnZlnAnBW3y1H9ZM8SUFC2ySfr0.BjwB_1tNwiKMq1ro)  (Passcode: kg-meetup-8). Link to [public material](https://drive.google.com/drive/folders/1Gr0O6M3WCSm5I4Z0oFvGasEcyNAbHWme?usp=sharing) (Google drive).
-
-
-### Symposiums
-
-- 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
-  - Format: in person (around 100 participants)
-  - Registration via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/events/2nd-symposium-of-the-alan-turing-institute-interest-group-on-knowledge-graphs). Registration is now closed.
-  - [Agenda, photos, slides, videos](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2023.md)
-
-
-- 1st Symposium: **June 17th** 2022 (10am-4pm BST), at [the Alan Turing Institute](https://www.turing.ac.uk/about-us/how-get-alan-turing-institute) (Enigma room).
-  - Format: up to 45 participants in person, broadcasted online.
-  - Registration via [eventbrite](https://www.eventbrite.co.uk/e/1st-annual-symposium-of-the-knowledge-graphs-ig-the-alan-turing-institute-tickets-310987932277). In person registration closes on June 3rd, 2022. Because of space constraints, maximum 2 people per organisation or group may attend in person. 
-  - [Agenda and slides](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2022.md).
-  - [Photos](https://drive.google.com/drive/folders/1pEQPVm2BKBy3yzyLBGPM-tUUHi3NR1_f?usp=sharing)
-
-
-### Meet-ups
 
 - 7th Meet-up: **September 18th 2023** (2:00pm-5:30pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
   - Format: in person (and live-streamed for online participants).
