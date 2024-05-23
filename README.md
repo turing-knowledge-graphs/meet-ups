@@ -1,5 +1,8 @@
 ### Upcoming events:
+- 10th Meet-up: most probably during late Summer or early Autumn.
+          
 
+### Last event: 
 - 9th Meet-up: **May 20th 2024** (3:30pm-6pm BST) at City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  Directions to get to the [Lecture Theather B200](https://drive.google.com/file/d/1IZJJIYSBwjitvBUa8bKIZ38fEwwWK95f/view?usp=sharing).
     - **Registration** via this [form](https://forms.office.com/e/ZyTtJdWVis) (only for in-person attendance).
     - Live-stream and full recording: [access link](https://echo360.org.uk/section/5e35847f-eb8f-4533-b886-f34fb4a0d601/public) 
@@ -16,10 +19,8 @@
           > **Bio**: Juan Sequeda is the Principal Scientist and Head of the AI Lab at data.world. He holds a PhD in Computer Science from The University of Texas at Austin. Juan’s research and     industry work has been on the intersection of data and AI, with the goal to reliably create knowledge from inscrutable data, specifically designing and building Knowledge Graph for enterprise data and metadata management. Juan is the co-author of the book [“Designing and Building Enterprise Knowledge Graph”](https://www.amazon.com/Designing-Enterprise-Knowledge-Synthesis-Semantics/dp/1636391745) and the co-host of [Catalog and Cocktails, an honest, no-bs, non-salesy data podcast](https://data.world/podcasts/).
 
         - 17:00-18:00    Networking
-           
 
-### Last event: 
-
+### Symposiums
 - 3rd Symposium on Knowlkedge Graphs in the Wild (Turing AI UK Fringe event): **March 25th 2024**, **University of Liverpool, UK**. [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
     - Format: in person (around 100 participants)
     <!-- Registration: £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
@@ -27,10 +28,6 @@
     - Agenda
       - Invited speakers: [Prof. Uli Sattler](http://www.cs.man.ac.uk/~sattler/) (University of Manchester) and [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org) (King's College London)
       - [Full Fringe event details](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md)
-
-
-
-### Symposiums
 
 - 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
   - Format: in person (around 100 participants)
