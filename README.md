@@ -1,14 +1,14 @@
 ### Upcoming events:
 - 10th Meet-up:  **Novemnber 29th 2024** (9:30-16:00 GMT), **University of Edinburgh**.
     - **Registration** via this [form](https://forms.office.com/e/kQtp2Q5Kr0)  (in-person attendance).
-    - Agenda to be added soon.
+    - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md).
           
 
 ### Last event: 
 - 9th Meet-up: **May 20th 2024** (3:30pm-6pm BST) at City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  Directions to get to the [Lecture Theather B200](https://drive.google.com/file/d/1IZJJIYSBwjitvBUa8bKIZ38fEwwWK95f/view?usp=sharing).
     - **Registration** via this [form](https://forms.office.com/e/ZyTtJdWVis) (only for in-person attendance).
     - Live-stream and full recording: [access link](https://echo360.org.uk/section/5e35847f-eb8f-4533-b886-f34fb4a0d601/public) 
-    - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-9th-meet-up.md).
+    - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-9th-meetup.md).
 
 
 ### Symposiums
