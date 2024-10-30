@@ -1,6 +1,6 @@
 ## 9th Meet-up of The Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/interest-groups/knowledge-graphs)
 
-- **When:** May 2oth 2024  (3:30pm-6pm BST)
+- **When:** May 20th 2024  (3:30pm-6pm BST)
 - **Format:** in-person.
 - **Where:** City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  Directions to get to the [Lecture Theather B200](https://drive.google.com/file/d/1IZJJIYSBwjitvBUa8bKIZ38fEwwWK95f/view?usp=sharing).
 - **Registration** via this [form](https://forms.office.com/e/ZyTtJdWVis) (only for in-person attendance).
