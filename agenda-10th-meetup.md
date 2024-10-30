@@ -6,7 +6,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 - **When:** November 29, 2024 (9:30-16:0 GMT)
 - **Where:** University of Edinburgh 
-- **Format:** <ins>In-person</ins>.
+- **Format:** <ins>In-person</ins> (up to 100-participants).
 - **Recording:** To be added
 
 **Registration, Sponsorship and Call for presentations and/or posters**: 
