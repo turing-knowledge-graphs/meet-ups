@@ -1,5 +1,6 @@
 ### Upcoming events:
-- 10th Meet-up: most probably during late Summer or early Autumn.
+- 10th Meet-up:  **Novemnber 29th 2024** (9:30-16:00 GMT), **University of Edinburgh**.
+    - **Registration** via this [form](https://forms.office.com/e/kQtp2Q5Kr0)  (in-person attendance).
           
 
 ### Last event: 
