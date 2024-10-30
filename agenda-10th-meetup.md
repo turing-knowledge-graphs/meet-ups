@@ -12,7 +12,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 **Registration, Sponsorship and Call for presentations and/or posters**: 
 - **Registration form** [here](https://forms.office.com/e/kQtp2Q5Kr0) (in-person attendance)
 <!-- - **Accommodation**: For attendees requiring accommodation (TBA)-->
-- **Travel grants**: Around 10 travel grants of £100 are available to support the participation of PhD students and early postdocs.
+- **Travel grants**: Around 10 travel grants of around £100 are available to support the participation of PhD students and early postdocs.
   - To apply email the [Interest Group organisers](mailto:knowledgegraphs_tig@turing.ac.uk) with the following information: (1) full name, (2) institution, (3) if you are a PhD or a postdoc and (4) title of your presentation/poster. 
 
 ## Agenda (Tentative)
