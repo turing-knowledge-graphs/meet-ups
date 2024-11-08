@@ -6,7 +6,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 - **When:** November 29, 2024 (9:30-16:0 GMT)
 - **Where:** University of Edinburgh 
-- **Format:** <ins>In-person</ins> (up to 100-participants).
+- **Format:** <ins>In-person</ins> (up to 60-participants).
 - **Recording:** To be added
 
 **Registration, Sponsorship and Call for presentations and/or posters**: 
@@ -29,15 +29,21 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 -->
 
 11:00-12:00 &ensp; Short Presentations from members (10min + 5 QA)
-<!-- - Jacopo deBerardinis, University of Manchester: **KGs for Responsible Generative Music AI**
-- Joseph Dimos, Common Action: **Climate dynamics and its argumentation, a synthesis of temporal logic and graphs in representing belief about climate problems**
-- Jiaru Bai, University of Cambridge: **A dynamic knowledge graph approach to distributed self-driving laboratories**
-- Simon Rihm, University of Cambridge: **Using dynamic knowledge graphs to automate research support tasks**
--->
+
+- Elhadj Benkhelifa,	University of Staffordshire, UK / Westcliff University:	**The Knowledge Graph Alliance**
+- Peter Winstanley, Semantic Arts UK Ltd and Semantic Arts Inc:	**Semantics and Data-Centricity - a sea change in information management**
+- Nitisha	Jain, King's College London: **Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects**
+- Seferin	James,	British Standards Institution:	**Graph routing and content domain knowledge graphs**
+
   
 12:00-13:00 &ensp; Lunch and Networking (1h)
 
 13:00-14:00 &ensp; Short Presentations from members (10min + 5 QA)
+
+- Xiaoxue Shen, The Alan Turing Institute:	**A structured knowledge graph for digital twins for structural dynamic systems**
+- Nikolai  Kazantsev, University of Cambridge:	**Knowledge Graphs that Design Demand-driven Collaborations**
+- Seyed Amir Hosseini Beghaeiraveri, The University of Edinburgh: **ShEx-to-Datalog: Optimizing Validation, Subsetting, and Reasoning over RDF**
+
 
 14:00-15:00 &ensp; Coffee Break and Poster session (1h)
 
@@ -50,6 +56,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 | **Presenter** | **Affiliation** | **Poster Title** |
 | ------ | ------ | ------ |
+
 | Sevinj Teymurova |	City University of London	| Aligning network of ontologies using Graph AI |
 | Edlira	Vakaj |	Birmingham City University	| Natural Language Processing for Knowledge Graph Creation |
 | Joseph	Dimos	| Common Action	| Climate dynamics and its argumentation, a synthesis of temporal logic and graphs in representing belief about climate problems |
