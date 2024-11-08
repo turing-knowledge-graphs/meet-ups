@@ -28,7 +28,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 - **Bio**: Dr Albert Meroño-Peñuela is a Lecturer (Assistant Professor) in Computer Science and Knowledge Engineering at the Department of Informatics of King's College London (United Kingdom). His research revolves around the relations between Artificial Intelligence and culture, in particular the semantics of music, multimodal knowledge graphs, and knowledge representation and reasoning for digital humanities and cultural heritage. He has done work in various areas of the semantic web, most prominently in Web Data APIs over RDF Knowledge Graphs.
 -->
 
-11:00-12:00 &ensp; Short Presentations from members (10min + 5 QA)
+11:00-12:00 &ensp; Short Presentations from members (10min + 5 QA) - TBC (some talks may be moved to the poster session)
 
 - Elhadj Benkhelifa,	University of Staffordshire, UK / Westcliff University:	**The Knowledge Graph Alliance**
 - Peter Winstanley, Semantic Arts UK Ltd and Semantic Arts Inc:	**Semantics and Data-Centricity - a sea change in information management**
@@ -38,7 +38,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
   
 12:00-13:00 &ensp; Lunch and Networking (1h)
 
-13:00-14:00 &ensp; Short Presentations from members (10min + 5 QA)
+13:00-14:00 &ensp; Short Presentations from members (10min + 5 QA) - TBC (some talks may be moved to the poster session)
 
 - Xiaoxue Shen, The Alan Turing Institute:	**A structured knowledge graph for digital twins for structural dynamic systems**
 - Nikolai  Kazantsev, University of Cambridge:	**Knowledge Graphs that Design Demand-driven Collaborations**
