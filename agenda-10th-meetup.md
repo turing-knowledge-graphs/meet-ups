@@ -51,26 +51,25 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 15:45-16:00 &ensp; Closing and Group Photo
 
-<!--
+
 ## Poster Presentations
 
 | **Presenter** | **Affiliation** | **Poster Title** |
 | ------ | ------ | ------ |
-
-| Sevinj Teymurova |	City University of London	| Aligning network of ontologies using Graph AI |
-| Edlira	Vakaj |	Birmingham City University	| Natural Language Processing for Knowledge Graph Creation |
-| Joseph	Dimos	| Common Action	| Climate dynamics and its argumentation, a synthesis of temporal logic and graphs in representing belief about climate problems |
-| Hang	Dong	| University of Exeter	| A Language Model based Framework for New Concept Placement in Ontologies |
-| George	Svarovsky |	UCL	| Live Collaborative Editing of Knowledge Graphs |
-| Milan	Markovic |	University of Aberdeen	| Knowledge graph-driven transparent carbon emissions reporting |
-| Saleh	Mohamed	| Nerwcastle University |	Navigating MedTech Innovations: Using NLP and Knowledge Graph to Redefine Horizon Scanning |
-| Jiying	Chen	| University of Cambridge	| Smart Cities in Practical Environments: A Dynamic Knowledge Graph Approach for Urban Interoperability and Sustainability |
-| Xiaolin	Hu	| University of Leicester	| Functional knowledge graph towards personal use |
-| Maneeha	 Rani	| University of Hull |	Knowledge graphs with LLM |
-| Nan	Hu	| Southeast University	| Benchmarking large language models in complex question answering attribution using knowledge graphs |
-
+| Milan Markovic | University of Aberdeen | Farm Explorer: A Tool for Calculating Transparent Greenhouse Gas Emissions | 
+| Ernesto Jimenez-Ruiz | City St George's, University of London | Towards a Knowledge Graph for Teaching Knowledge Graphs | 
+| Sevinj Teymurova | City St George's, University of London | OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment | 
+| Anoushka Harit | University of Cambridge | Monitoring Behavioral Changes Using Spatiotemporal Graphs: A case study on Student life Dataset | 
+| Terence Egbelo | University of Sheffield | Topological bias in knowledge graphs: lessons from the biomedical domain | 
+| Laura Balbi | University of Lisbon | LET’S AGREE TO DISAGREE: Neuro-Symbolic AI for conflict-aware learning over Knowledge Graphs | 
+| Susana Nunes | University of Lisbon | Drug Repurposing Hypothesis Validation with Knowledge-infused Explanations | 
+| Pedro Giesteira Cotovio | University of Lisbon | Learning and Explaining Knowledge Graph Alignment | 
+| Lucas Ferraz | University of Lisbon |  | 
+| Ricardo Carvalho | University of Lisbon |	 | 
+| Marta Silva | University of Lisbon | Complex Multi-Ontology Alignment through Geometric Operations on Language Embeddings  | 
 
 
+<!--
 The event is supported by the [Digital Research Theme at the University of Liverpool](https://www.liverpool.ac.uk/research/research-themes/digital/) and [Liverpool Women in Science and Engineering, LivWiSE](https://www.liverpool.ac.uk/liverpool-women-in-science-and-engineering/)
 
 </p>
