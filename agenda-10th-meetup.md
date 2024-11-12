@@ -22,6 +22,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 09:45-10:00 &ensp; Welcome to the meet-up.
 
 10:00-10:45 &ensp; Keynote I
+
 [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/), Lyon 1 University
 <!--- **Title**: ***Not Just Graph Databases: Enabling Cultural Intelligence with Multimodal Knowledge Graphs***
 - **Abstract**: Knowledge Graphs—graph-shaped knowledge bases that integrate distributed datasets into semantic representations—have demonstrated their impact in the world and are now central in Web search (knowledge panels), virtual assistants, etc. However, we tend to assume that the knowledge that ends up in knowledge graphs comes from particular representations, mostly text or structured databases. At the same time, a sizable number of the use cases in which we deploy KGs have the same unimodal assumption (text/structured data). In this talk, I will challenge these views with the notion of Multimodal Knowledge Graphs (MMKGs), arguing that important knowledge of the world comes from alternative representations (such as music, sound, and images), and that multimodality can enable better access to knowledge for all. I will showcase MMKGs in the domains of digital humanities and cultural heritage as key enablers of intelligent cultural applications.
@@ -38,6 +39,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 11:45-12:45 &ensp; Lunch, Networking and posters (1h)
 
 12:45-13:30 &ensp; Keynote II
+
 [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), University College London 
 
 13:30:-14:15 &ensp; Short Presentations from members (10min + 5 QA) - TBC (some talks may be moved to the poster session)
@@ -72,6 +74,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Antonio Vergari | The University of Edinburgh |	 | 
 | Edoardo Ponti | The University of Edinburgh |	 | 
 | Emile van Krieken | The University of Edinburgh |	 | 
+| Nitisha	Jain | King's College London | Bringing Back Semantics to Knowledge Graph Embeddings: An Interpretability Approach 
 
 <!--
 The event is supported by the [Digital Research Theme at the University of Liverpool](https://www.liverpool.ac.uk/research/research-themes/digital/) and [Liverpool Women in Science and Engineering, LivWiSE](https://www.liverpool.ac.uk/liverpool-women-in-science-and-engineering/)
