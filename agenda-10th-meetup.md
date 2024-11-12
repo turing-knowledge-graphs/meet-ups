@@ -17,37 +17,39 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 ## Agenda (Tentative)
 
-9:30-10:00 &ensp; Registration, poster set up and coffee.
+09:15-09:45 &ensp; Registration, poster set up and coffee.
 
-10:00-10:15 &ensp; Welcome to the meet-up.
+09:45-10:00 &ensp; Welcome to the meet-up.
 
-10:15-11:00 &ensp; Keynote
-<!--[Albert Meroño Peñuela](https://www.albertmeronyo.org), King's College London
-- **Title**: ***Not Just Graph Databases: Enabling Cultural Intelligence with Multimodal Knowledge Graphs***
+10:00-10:45 &ensp; Keynote I
+[Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/), Lyon 1 University
+<!--- **Title**: ***Not Just Graph Databases: Enabling Cultural Intelligence with Multimodal Knowledge Graphs***
 - **Abstract**: Knowledge Graphs—graph-shaped knowledge bases that integrate distributed datasets into semantic representations—have demonstrated their impact in the world and are now central in Web search (knowledge panels), virtual assistants, etc. However, we tend to assume that the knowledge that ends up in knowledge graphs comes from particular representations, mostly text or structured databases. At the same time, a sizable number of the use cases in which we deploy KGs have the same unimodal assumption (text/structured data). In this talk, I will challenge these views with the notion of Multimodal Knowledge Graphs (MMKGs), arguing that important knowledge of the world comes from alternative representations (such as music, sound, and images), and that multimodality can enable better access to knowledge for all. I will showcase MMKGs in the domains of digital humanities and cultural heritage as key enablers of intelligent cultural applications.
 - **Bio**: Dr Albert Meroño-Peñuela is a Lecturer (Assistant Professor) in Computer Science and Knowledge Engineering at the Department of Informatics of King's College London (United Kingdom). His research revolves around the relations between Artificial Intelligence and culture, in particular the semantics of music, multimodal knowledge graphs, and knowledge representation and reasoning for digital humanities and cultural heritage. He has done work in various areas of the semantic web, most prominently in Web Data APIs over RDF Knowledge Graphs.
 -->
 
-11:00-12:00 &ensp; Short Presentations from members (10min + 5 QA) - TBC (some talks may be moved to the poster session)
+10:45-11:45 &ensp; Short Presentations from members (10min + 5 QA)
 
 - Elhadj Benkhelifa,	University of Staffordshire, UK / Westcliff University:	**The Knowledge Graph Alliance**
 - Peter Winstanley, Semantic Arts UK Ltd and Semantic Arts Inc:	**Semantics and Data-Centricity - a sea change in information management**
 - Nitisha	Jain, King's College London: **Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects**
 - Seferin	James,	British Standards Institution:	**Graph routing and content domain knowledge graphs**
-
   
-12:00-13:00 &ensp; Lunch and Networking (1h)
+11:45-12:45 &ensp; Lunch, Networking and posters (1h)
 
-13:00-14:00 &ensp; Short Presentations from members (10min + 5 QA) - TBC (some talks may be moved to the poster session)
+12:45-13:30 &ensp; Keynote II
+[Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), University College London 
+
+13:30:-14:15 &ensp; Short Presentations from members (10min + 5 QA) - TBC (some talks may be moved to the poster session)
 
 - Xiaoxue Shen, The Alan Turing Institute:	**A structured knowledge graph for digital twins for structural dynamic systems**
 - Nikolai  Kazantsev, University of Cambridge:	**Knowledge Graphs that Design Demand-driven Collaborations**
 - Seyed Amir Hosseini Beghaeiraveri, The University of Edinburgh: **ShEx-to-Datalog: Optimizing Validation, Subsetting, and Reasoning over RDF**
 
 
-14:00-15:00 &ensp; Coffee Break and Poster session (1h)
+14:15-15:15 &ensp; Coffee Break and Poster session (1h)
 
-15:00-15:45 &ensp; **Panel Session**<br>
+15:15-15:45 &ensp; **Panel Session**<br>
 
 15:45-16:00 &ensp; Closing and Group Photo
 
@@ -62,12 +64,14 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Anoushka Harit | University of Cambridge | Monitoring Behavioral Changes Using Spatiotemporal Graphs: A case study on Student life Dataset | 
 | Terence Egbelo | University of Sheffield | Topological bias in knowledge graphs: lessons from the biomedical domain | 
 | Laura Balbi | University of Lisbon | LET’S AGREE TO DISAGREE: Neuro-Symbolic AI for conflict-aware learning over Knowledge Graphs | 
-| Susana Nunes | University of Lisbon | Drug Repurposing Hypothesis Validation with Knowledge-infused Explanations | 
+| Susana Nunes | University of Lisbon | Knowledge Graph-based Explanations for Biomedical AI | 
 | Pedro Giesteira Cotovio | University of Lisbon | Learning and Explaining Knowledge Graph Alignment | 
 | Lucas Ferraz | University of Lisbon |  | 
 | Ricardo Carvalho | University of Lisbon |	 | 
 | Marta Silva | University of Lisbon | Complex Multi-Ontology Alignment through Geometric Operations on Language Embeddings  | 
-
+| Antonio Vergari | The University of Edinburgh |	 | 
+| Edoardo Ponti | The University of Edinburgh |	 | 
+| Emile van Krieken | The University of Edinburgh |	 | 
 
 <!--
 The event is supported by the [Digital Research Theme at the University of Liverpool](https://www.liverpool.ac.uk/research/research-themes/digital/) and [Liverpool Women in Science and Engineering, LivWiSE](https://www.liverpool.ac.uk/liverpool-women-in-science-and-engineering/)
