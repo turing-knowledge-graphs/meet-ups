@@ -54,7 +54,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 14:15-15:15 &ensp; Coffee Break and Poster session (1h)
 
-15:15-15:45 &ensp; **Panel Session**<br>
+15:15-15:45 &ensp; Panel Session: take home notes from the [ISWC Special Session](https://iswc2024.semanticweb.org/event/3715c6fc-e2d7-47eb-8c01-5fe4ac589a52/websitePage:64c7dcb3-4668-4de6-ab92-4d91d1bfecec) on **Harmonising Generative AI and Semantic Web Technologies**
 
 15:45-16:00 &ensp; Closing and Group Photo
 
