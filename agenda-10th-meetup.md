@@ -42,10 +42,13 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), University College London 
 
-13:30:-14:15 &ensp; Short Presentations from members (10min + 5 QA) - TBC (some talks may be moved to the poster session)
+13:30:-14:15 &ensp; Short Presentations from members (5min + 2 QA)
 
+- Emile van Krieken, The University of Edinburgh: **GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**
 - Xiaoxue Shen, The Alan Turing Institute:	**A structured knowledge graph for digital twins for structural dynamic systems**
+- Antonio Vergari, The University of Edinburgh: **How to Turn your Knowledge Graph Embeddings into Generative Models**
 - Nikolai  Kazantsev, University of Cambridge:	**Knowledge Graphs that Design Demand-driven Collaborations**
+- Edoardo Ponti, The University of Edinburgh: **Adaptive tokenization and memory (knowledge) in foundation models**
 - Seyed Amir Hosseini Beghaeiraveri, The University of Edinburgh: **ShEx-to-Datalog: Optimizing Validation, Subsetting, and Reasoning over RDF**
 
 
@@ -71,9 +74,9 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Lucas Ferraz | University of Lisbon |  | 
 | Ricardo Carvalho | University of Lisbon |	 | 
 | Marta Silva | University of Lisbon | Complex Multi-Ontology Alignment through Geometric Operations on Language Embeddings  | 
-| Antonio Vergari | The University of Edinburgh |	 | 
-| Edoardo Ponti | The University of Edinburgh |	 | 
-| Emile van Krieken | The University of Edinburgh |	 | 
+| Antonio Vergari | The University of Edinburgh |	How to Turn your Knowledge Graph Embeddings into Generative Models | 
+| Edoardo Ponti | The University of Edinburgh |	Adaptive tokenization and memory (knowledge) in foundation models | 
+| Emile van Krieken | The University of Edinburgh |	GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks | 
 | Nitisha	Jain | King's College London | Bringing Back Semantics to Knowledge Graph Embeddings: An Interpretability Approach 
 
 <!--
