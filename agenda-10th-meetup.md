@@ -48,7 +48,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 - Xiaoxue Shen, The Alan Turing Institute:	**A structured knowledge graph for digital twins for structural dynamic systems**
 - Antonio Vergari, The University of Edinburgh: **How to Turn your Knowledge Graph Embeddings into Generative Models**
 - Nikolai  Kazantsev, University of Cambridge:	**Knowledge Graphs that Design Demand-driven Collaborations**
-- Edoardo Ponti, The University of Edinburgh: **Adaptive tokenization and memory (knowledge) in foundation models**
+- Pavlos Vougiouklis, Huawei Technologies R&D UK: **Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**
 - Seyed Amir Hosseini Beghaeiraveri, The University of Edinburgh: **ShEx-to-Datalog: Optimizing Validation, Subsetting, and Reasoning over RDF**
 
 
