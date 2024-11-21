@@ -21,7 +21,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 09:45-10:00 &ensp; Welcome to the meet-up.
 
-10:00-10:45 &ensp; Keynote I
+10:00-10:45 &ensp; Keynote I:  The Quest for Schemas in Graph Databases
 
 [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/), Lyon 1 University
 <!--- **Title**: ***Not Just Graph Databases: Enabling Cultural Intelligence with Multimodal Knowledge Graphs***
@@ -38,7 +38,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
   
 11:45-12:45 &ensp; Lunch, Networking and posters (1h)
 
-12:45-13:30 &ensp; Keynote II
+12:45-13:30 &ensp; Keynote II:  A Knowledge Graph with Task Representations and Applications in the Design of General-Purpose Task Completion Agents
 
 [Emine Yilmaz](https://sites.google.com/site/emineyilmaz/), University College London 
 
