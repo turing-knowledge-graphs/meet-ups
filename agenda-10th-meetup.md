@@ -75,7 +75,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Ricardo Carvalho | University of Lisbon |	 | 
 | Marta Silva | University of Lisbon | Complex Multi-Ontology Alignment through Geometric Operations on Language Embeddings  | 
 | Antonio Vergari | The University of Edinburgh |	How to Turn your Knowledge Graph Embeddings into Generative Models | 
-| Edoardo Ponti | The University of Edinburgh |	Adaptive tokenization and memory (knowledge) in foundation models | 
+| Pavlos Vougiouklis | Huawei Technologies R&D UK |	Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning | 
 | Emile van Krieken | The University of Edinburgh |	GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks | 
 | Nitisha	Jain | King's College London | Bringing Back Semantics to Knowledge Graph Embeddings: An Interpretability Approach |
 | Zhongtian Sun | University of Oxford | Building infectious disease databases and knowledge graphs with large language models |
