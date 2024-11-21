@@ -46,7 +46,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 - Emile van Krieken, The University of Edinburgh: **GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**
 - Xiaoxue Shen, The Alan Turing Institute:	**A structured knowledge graph for digital twins for structural dynamic systems**
-- Antonio Vergari, The University of Edinburgh: **How to Turn your Knowledge Graph Embeddings into Generative Models**
+- Lorenzo Loconte, The University of Edinburgh: **How to Turn your Knowledge Graph Embeddings into Generative Models**
 - Nikolai  Kazantsev, University of Cambridge:	**Knowledge Graphs that Design Demand-driven Collaborations**
 - Pavlos Vougiouklis, Huawei Technologies R&D UK: **Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**
 - Seyed Amir Hosseini Beghaeiraveri, The University of Edinburgh: **ShEx-to-Datalog: Optimizing Validation, Subsetting, and Reasoning over RDF**
@@ -74,7 +74,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Lucas Ferraz | University of Lisbon |  | 
 | Ricardo Carvalho | University of Lisbon |	 | 
 | Marta Silva | University of Lisbon | Complex Multi-Ontology Alignment through Geometric Operations on Language Embeddings  | 
-| Antonio Vergari | The University of Edinburgh |	How to Turn your Knowledge Graph Embeddings into Generative Models | 
+| Lorenzo Loconte | The University of Edinburgh |	How to Turn your Knowledge Graph Embeddings into Generative Models | 
 | Pavlos Vougiouklis | Huawei Technologies R&D UK |	Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning | 
 | Emile van Krieken | The University of Edinburgh |	GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks | 
 | Nitisha	Jain | King's College London | Bringing Back Semantics to Knowledge Graph Embeddings: An Interpretability Approach |
