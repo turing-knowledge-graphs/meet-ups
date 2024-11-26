@@ -74,7 +74,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Ricardo Carvalho | University of Lisbon |	Time and Knowledge Aware Clinical Graph Data Mining | 
 | Marta Silva | University of Lisbon | Complex Multi-Ontology Alignment through Geometric Operations on Language Embeddings  | 
 | Lorenzo Loconte | The University of Edinburgh |	How to Turn your Knowledge Graph Embeddings into Generative Models | 
-| Pavlos Vougiouklis | Huawei Technologies R&D UK |	Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning | 
+| Zhili Shen, Chenxin Diao | Huawei Technologies R&D UK |	Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning | 
 | Emile van Krieken | The University of Edinburgh |	GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks | 
 | Zhongtian Sun | University of Oxford | Building infectious disease databases and knowledge graphs with large language models |
 | Marco Mesiti | Università degli Studi di Milano | Construction and enhancement of an RNA-based knowledge graph for discovering new RNA drugs |
