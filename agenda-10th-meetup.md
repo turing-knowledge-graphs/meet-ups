@@ -64,15 +64,14 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | **Presenter** | **Affiliation** | **Poster Title** |
 | ------ | ------ | ------ |
 | Milan Markovic | University of Aberdeen | Farm Explorer: A Tool for Calculating Transparent Greenhouse Gas Emissions | 
-| Ernesto Jimenez-Ruiz | City St George's, University of London | Towards a Knowledge Graph for Teaching Knowledge Graphs | 
 | Sevinj Teymurova | City St George's, University of London | OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment | 
 | Anoushka Harit | University of Cambridge | Monitoring Behavioral Changes Using Spatiotemporal Graphs: A case study on Student life Dataset | 
 | Terence Egbelo | University of Sheffield | Topological bias in knowledge graphs: lessons from the biomedical domain | 
 | Laura Balbi | University of Lisbon | LET’S AGREE TO DISAGREE: Neuro-Symbolic AI for conflict-aware learning over Knowledge Graphs | 
 | Susana Nunes | University of Lisbon | Knowledge Graph-based Explanations for Biomedical AI | 
 | Pedro Giesteira Cotovio | University of Lisbon | Learning and Explaining Knowledge Graph Alignment | 
-| Lucas Ferraz | University of Lisbon |  | 
-| Ricardo Carvalho | University of Lisbon |	 | 
+| Lucas Ferraz | University of Lisbon | Development of an Ontological Fuzzy-search API for Semantic Knowledge Extraction | 
+| Ricardo Carvalho | University of Lisbon |	Time and Knowledge Aware Clinical Graph Data Mining | 
 | Marta Silva | University of Lisbon | Complex Multi-Ontology Alignment through Geometric Operations on Language Embeddings  | 
 | Lorenzo Loconte | The University of Edinburgh |	How to Turn your Knowledge Graph Embeddings into Generative Models | 
 | Pavlos Vougiouklis | Huawei Technologies R&D UK |	Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning | 
