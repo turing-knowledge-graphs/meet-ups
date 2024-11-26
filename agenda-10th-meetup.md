@@ -67,7 +67,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Sevinj Teymurova | City St George's, University of London | OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment | 
 | Anoushka Harit | University of Cambridge | Monitoring Behavioral Changes Using Spatiotemporal Graphs: A case study on Student life Dataset | 
 | Terence Egbelo | University of Sheffield | Topological bias in knowledge graphs: lessons from the biomedical domain | 
-| Laura Balbi | University of Lisbon | LET’S AGREE TO DISAGREE: Neuro-Symbolic AI for conflict-aware learning over Knowledge Graphs | 
+| Laura Balbi | University of Lisbon | LET'S AGREE TO DISAGREE: Neuro-Symbolic AI for conflict-aware learning over Knowledge Graphs | 
 | Susana Nunes | University of Lisbon | Knowledge Graph-based Explanations for Biomedical AI | 
 | Pedro Giesteira Cotovio | University of Lisbon | Learning and Explaining Knowledge Graph Alignment | 
 | Lucas Ferraz | University of Lisbon | Development of an Ontological Fuzzy-search API for Semantic Knowledge Extraction | 
@@ -76,7 +76,6 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | Lorenzo Loconte | The University of Edinburgh |	How to Turn your Knowledge Graph Embeddings into Generative Models | 
 | Pavlos Vougiouklis | Huawei Technologies R&D UK |	Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning | 
 | Emile van Krieken | The University of Edinburgh |	GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks | 
-| Nitisha	Jain | King's College London | Bringing Back Semantics to Knowledge Graph Embeddings: An Interpretability Approach |
 | Zhongtian Sun | University of Oxford | Building infectious disease databases and knowledge graphs with large language models |
 | Marco Mesiti | Università degli Studi di Milano | Construction and enhancement of an RNA-based knowledge graph for discovering new RNA drugs |
 
