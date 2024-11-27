@@ -32,9 +32,11 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 10:45-11:45 &ensp; Short Presentations from members (10min + 5 QA)
 
 - Elhadj Benkhelifa,	University of Staffordshire, UK / Westcliff University:	**The Knowledge Graph Alliance**
-- Peter Winstanley, Semantic Arts UK Ltd and Semantic Arts Inc:	**Semantics and Data-Centricity - a sea change in information management**
 - Nitisha	Jain, King's College London: **Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects**
 - Seferin	James,	British Standards Institution:	**Graph routing and content domain knowledge graphs**
+
+<!--- Peter Winstanley, Semantic Arts UK Ltd and Semantic Arts Inc:	**Semantics and Data-Centricity - a sea change in information management**-->
+
   
 11:45-12:45 &ensp; Lunch, Networking and posters (1h)
 
@@ -65,7 +67,6 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 | ------ | ------ | ------ |
 | Milan Markovic | University of Aberdeen | Farm Explorer: A Tool for Calculating Transparent Greenhouse Gas Emissions | 
 | Sevinj Teymurova | City St George's, University of London | OWL2Vec4OA: Tailoring Knowledge Graph Embeddings for Ontology Alignment | 
-| Anoushka Harit | University of Cambridge | Monitoring Behavioral Changes Using Spatiotemporal Graphs: A case study on Student life Dataset | 
 | Terence Egbelo | University of Sheffield | Topological bias in knowledge graphs: lessons from the biomedical domain | 
 | Laura Balbi | University of Lisbon | LET'S AGREE TO DISAGREE: Neuro-Symbolic AI for conflict-aware learning over Knowledge Graphs | 
 | Susana Nunes | University of Lisbon | Knowledge Graph-based Explanations for Biomedical AI | 
