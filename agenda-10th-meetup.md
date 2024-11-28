@@ -33,7 +33,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 - Elhadj Benkhelifa,	University of Staffordshire, UK / Westcliff University:	**The Knowledge Graph Alliance**
 - Nitisha	Jain, King's College London: **Towards Interpretable Embeddings: Aligning Representations with Semantic Aspects**
-- Seferin	James,	British Standards Institution:	**Graph routing and content domain knowledge graphs**
+- Seferin	James,	British Standards Institution:	**Hierarchical routing across graph facets**
 - Marco Mesiti, Università degli Studi di Milano: **Construction and enhancement of an RNA-based knowledge graph for discovering new RNA drugs**
 
 
