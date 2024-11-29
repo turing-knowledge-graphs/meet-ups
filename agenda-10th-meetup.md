@@ -4,7 +4,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 
 **Attendance to the event is open to everyone.**
 
-- **When:** November 29, 2024 (9:30-16:0 GMT)
+- **When:** November 29, 2024 (9:30-16:00 GMT)
 - **Where:** [Edinburgh Future Institute](https://efi.ed.ac.uk/), University of Edinburgh 
 - **Format:** <ins>In-person</ins> (up to 60-participants).
 - **Recording:** To be added
