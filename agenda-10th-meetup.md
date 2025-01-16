@@ -8,6 +8,7 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 - **Where:** [Edinburgh Future Institute](https://efi.ed.ac.uk/), University of Edinburgh 
 - **Format:** <ins>In-person</ins> (up to 60-participants).
 - **Recording:** To be added
+- **Photos:** [here](https://photos.app.goo.gl/2scWBxFabNY3K3h19)
 
 **Registration, Sponsorship and Call for presentations and/or posters**: 
 - **Registration form** [here](https://forms.office.com/e/kQtp2Q5Kr0) (in-person attendance)
