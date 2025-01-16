@@ -18,7 +18,8 @@ Turing Interest Group on [Knowledge Graphs](https://www.turing.ac.uk/research/in
 <!--**Registration:** £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
 - **Live-stream and full recording:** [Zoom link](https://liverpool-ac-uk.zoom.us/j/92528796283?pwd=V1Q2SHJpTzVSMFBCMzBJTzRQUjljQT09)<br>
   - **Passcode**: KG-Symp0s1
-<!-- - **Media:** TBA -->
+-- - **Media:** [Photos](https://photos.app.goo.gl/tfCTqy9xPgDygvSZ9) 
+
 
 **Registration, Sponsorship and Call for presentations and/or posters**: 
 - **Registration form** [here](https://forms.office.com/e/AsZ5EquRi7) (Only for in-person attendance)
