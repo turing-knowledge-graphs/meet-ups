@@ -9,6 +9,7 @@
 - 10th Meet-up:  **Novemnber 29th 2024** (9:30-16:00 GMT), **University of Edinburgh**.
     - **Registration** via this [form](https://forms.office.com/e/kQtp2Q5Kr0)  (in-person attendance).
     - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md).
+    - [Photos](https://photos.app.goo.gl/2scWBxFabNY3K3h19)
           
 
 
@@ -20,6 +21,7 @@
     - Agenda
       - Invited speakers: [Prof. Uli Sattler](http://www.cs.man.ac.uk/~sattler/) (University of Manchester) and [Dr Albert Meroño Peñuela](https://www.albertmeronyo.org) (King's College London)
       - [Full Fringe event details](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2024-ai-uk-fringe-event.md)
+      - [Photos](https://photos.app.goo.gl/tfCTqy9xPgDygvSZ9)
 
 - 2nd Symposium  **June 16th 2023** (10:00am-6:00pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
   - Format: in person (around 100 participants)
