@@ -1,7 +1,10 @@
 ### Upcoming events:
-- 11th Meet-up:  **February/March 2025** (online).
-- Topic focused meet-up to target the EU Horizon 2025-2027 calls
-- 4rd Symposium **June 2025** (TBC)
+- 4rd Symposium **September 12 2025**. (10:00am-6:00pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
+  - Format: in person (around 100 participants)
+  - Topics:
+    * Focus on The Turing Grand Challenges.
+    * Target the EU Horizon 2025-2027 calls.
+  - [Tentative Agenda](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md)
           
 
 ### Last event: 
