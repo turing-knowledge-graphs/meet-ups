@@ -16,7 +16,7 @@
 Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - **Defence and national security**
 - **Environment and sustainability**
-- **Trandsformation of Health**
+- **Transformation of Health**
 
 
 ## Tentative Agenda
