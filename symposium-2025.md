@@ -35,13 +35,13 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 12:15 - 13:30   Lunch and Networking
 
-13:30 - 14:30   Session on Neurosymbolic AI for Medicine Network (Academy of Medical Sciences). TBC
+13:30 - 14:30   Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences). TBC
 
 14:30 - 15:30 	Poster session
 
 15:30 - 16:00  	Coffee and Networking
 
-16:00 - 17:00  	Project Matchmaking
+16:00 - 17:00  	Project Matchmaking aroud The Turing Grand Challenges
 
 17:00 - 17:45  	Panel discussion: The Turing Grand Challenges
 	
