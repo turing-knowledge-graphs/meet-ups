@@ -10,7 +10,7 @@
   - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
   - [Poster presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
 -->
-<!-- **Live-stream:** [access link](https://bit.ly/live-stream-turing-kg-2023) (questions via the slack channel).-->
+**Live-stream:** [access link TBA]() (questions via the slack channel).-->
 
 
 Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
