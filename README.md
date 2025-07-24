@@ -5,6 +5,7 @@
     * Focus on The Turing Grand Challenges.
     * Target the EU Horizon 2025-2027 calls.
   - [Tentative Agenda](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md)
+  - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs).
           
 
 ### Last event: 
