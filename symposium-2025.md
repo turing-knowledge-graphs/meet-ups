@@ -18,6 +18,8 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - **Environment and sustainability**
 - **Transformation of Health**
 
+## Talks and Speakers (growing list)
+- *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics
 
 ## Tentative Agenda
 
