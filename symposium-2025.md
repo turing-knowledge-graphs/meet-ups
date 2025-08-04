@@ -20,6 +20,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 ## Talks and Speakers (growing list)
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics
+- *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture* (poster). Alisa Holm, University of Aberdeen
 
 ## Tentative Agenda
 
