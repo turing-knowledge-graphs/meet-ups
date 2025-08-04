@@ -41,7 +41,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 15:30 - 16:00  	Coffee and Networking
 
-16:00 - 17:00  	Project Matchmaking aroud The Turing Grand Challenges
+16:00 - 17:00  	Project Matchmaking around The Turing Grand Challenges
 
 17:00 - 17:45  	Panel discussion: The Turing Grand Challenges
 	
