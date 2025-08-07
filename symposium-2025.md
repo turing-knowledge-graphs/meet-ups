@@ -19,39 +19,49 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - **Transformation of Health**
 
 ## Talks and Speakers (growing list)
-- *Knowledge Graphs as Pillars for Agentic AI in the real world* (pitch). Dr Juraj Mavracic, Symbiotic Dynamics
-- *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture* (poster). Alisa Holm, University of Aberdeen
-- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)* (pitch and poster). David R Willé, GSK R&D
-- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads* (pitch and poster). Xiaoxue Shen, The Alan Turing Institute
+
+
+## Posters
+- *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture*. Alisa Holm, University of Aberdeen
+- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute
+- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D
 
 
 ## Tentative Agenda
 
-09:00 - 09:30   Coffee and poster set-up
+09:00 - 09:30 Coffee and poster set-up
 
-09:30 - 10:00   Welcome
+09:30 - 10:00 Welcome
 
-10:00 - 10:45   Keynote 1
+10:00 - 10:45 **Keynote 1** *TBC*
 
-10:45 - 11:15   Short presentations/pitches I 
+10:45 - 11:15 Short presentations/pitches I
+- *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D
+- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute
 
-11:15 - 11:45   Coffee and Networking
+11:15 - 11:45 Coffee and Networking
 
-11:45 - 12:15   Short presentations/pitches II
+11:45 - 12:15 Short presentations/pitches II
+- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading
 
-12:15 - 13:30   Lunch and Networking
+12:15 - 13:30 Lunch and Networking
 
-13:30 - 14:30   Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences). TBC
+13:30 - 14:15 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. Jesse Wright, The Open Data Institute
 
-14:30 - 15:30 	Poster session
+14:15 - 15:15 Project Matchmaking around The Turing Grand Challenges (Working in Groups)
+<!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nige D -->
 
-15:30 - 16:00  	Coffee and Networking
+15:15 - 16:15 Poster session, Coffee and Networking
 
-16:00 - 17:00  	Project Matchmaking around The Turing Grand Challenges
+16:15 - 17:00 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)
 
-17:00 - 17:45  	Panel discussion: The Turing Grand Challenges
-	
-17:45 - 18:00  	Closing 
+17:00 - 17:50 Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences).
+
+17:50 - 18:00 Group Photo and Closing
+
+18:00 - Drinks and more Networking at [Dame Alice Owen](https://maps.app.goo.gl/JFGwGSVFZFFf9LQa6)
 
 <!--
 <br>
