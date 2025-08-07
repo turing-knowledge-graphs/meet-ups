@@ -18,8 +18,6 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - **Environment and sustainability**
 - **Transformation of Health**
 
-## Talks and Speakers (growing list)
-
 
 ## Posters
 - *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture*. Alisa Holm, University of Aberdeen
