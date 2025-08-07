@@ -56,6 +56,8 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 16:15 - 17:00 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)
 
 17:00 - 17:50 Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences).
+- Introduction
+- **Keynote 3** *TBC*
 
 17:50 - 18:00 Group Photo and Closing
 
