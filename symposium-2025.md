@@ -30,18 +30,18 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:00 - 09:30 Coffee and poster set-up
 
-09:30 - 10:00 Welcome
+09:30 - 09:45 Welcome
 
-10:00 - 10:45 **Keynote 1** *TBC*
+09:45 - 10:30 **Keynote 1** *TBC*
 
-10:45 - 11:15 Short presentations/pitches I
+10:30 - 10:50 Short presentations/pitches I
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics
-- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D
 - *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute
 
-11:15 - 11:45 Coffee and Networking
+10:50 - 11:20 Coffee and Networking
 
-11:45 - 12:15 Short presentations/pitches II
+11:20 - 12:15 Short presentations/pitches II (5 max)
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading
 
 12:15 - 13:30 Lunch and Networking
@@ -53,13 +53,13 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 15:15 - 16:15 Poster session, Coffee and Networking
 
-16:15 - 17:00 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)
+16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)
 
-17:00 - 17:50 Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences).
+16:45 - 17:45 Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences).
 - Introduction
 - **Keynote 3** *TBC*
 
-17:50 - 18:00 Group Photo and Closing
+17:45 - 18:00 Group Photo and Closing
 
 18:00 - Drinks and more Networking at [Dame Alice Owen](https://maps.app.goo.gl/JFGwGSVFZFFf9LQa6)
 
