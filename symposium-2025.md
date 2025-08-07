@@ -19,7 +19,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - **Transformation of Health**
 
 ## Talks and Speakers (growing list)
-- *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics
+- *Knowledge Graphs as Pillars for Agentic AI in the real world* (pitch). Dr Juraj Mavracic, Symbiotic Dynamics
 - *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture* (poster). Alisa Holm, University of Aberdeen
 - *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)* (pitch and poster). David R Willé, GSK R&D
 - *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads* (pitch and poster). Xiaoxue Shen, The Alan Turing Institute
