@@ -30,7 +30,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:00 - 09:30 Coffee and poster set-up
 
-09:30 - 09:45 Welcome
+09:30 - 09:45 Welcome by the IG Organisers
 
 09:45 - 10:30 **Keynote 1** *TBC*
 
@@ -56,7 +56,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)
 
 16:45 - 17:45 Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences).
-- Introduction
+- Introduction. Ernesto Jimenez-Ruiz. City St George's, University of London.
 - **Keynote 3** *TBC*
 
 17:45 - 18:00 Group Photo and Closing
