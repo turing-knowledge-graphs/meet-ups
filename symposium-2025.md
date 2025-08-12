@@ -20,10 +20,11 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 
 ## Posters
-- *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture*. Alisa Holm, University of Aberdeen
-- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute
-- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading
-- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D
+- *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture*. Alisa Holm, University of Aberdeen.
+- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute.
+- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
+- *An Explainable Framework for Grounding LLM-Based Radiology Report Generation in Medical Knowledge Graphs*. Faezeh Safari, University of Exeter.
 
 
 ## Tentative Agenda
@@ -35,21 +36,21 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 09:45 - 10:30 **Keynote 1** *TBC*
 
 10:30 - 10:50 Short presentations/pitches I
-- *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics
-- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute
+- *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
+- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute.
 
 10:50 - 11:20 Coffee and Networking
 
 11:20 - 12:15 Short presentations/pitches II (5 max)
-- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D
-- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
+- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
 
 12:15 - 13:30 Lunch and Networking
 
 13:30 - 14:15 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. Jesse Wright, The Open Data Institute
 
 14:15 - 15:15 Project Matchmaking around The Turing Grand Challenges (Working in Groups)
-<!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nige D -->
+<!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nigel D -->
 
 15:15 - 16:15 Poster session, Coffee and Networking
 
