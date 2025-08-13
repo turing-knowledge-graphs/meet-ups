@@ -33,7 +33,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:30 - 09:45 Welcome by the IG Organisers
 
-09:45 - 10:30 **Keynote 1** *TBC*
+09:45 - 10:30 **Keynote 1** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. Paul Schofield, University of Cambridge.
 
 10:30 - 10:50 Short presentations/pitches I
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
@@ -47,7 +47,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 12:15 - 13:30 Lunch and Networking
 
-13:30 - 14:15 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. Jesse Wright, The Open Data Institute
+13:30 - 14:15 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. Jesse Wright, The Open Data Institute.
 
 14:15 - 15:15 Project Matchmaking around The Turing Grand Challenges (Working in Groups)
 <!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nigel D -->
