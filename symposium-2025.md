@@ -33,7 +33,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:30 - 09:45 Welcome by the IG Organisers
 
-09:45 - 10:30 **Keynote 1** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. Paul Schofield, University of Cambridge.
+09:45 - 10:30 **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. Paul Schofield, University of Cambridge.
 
 10:30 - 10:50 Short presentations/pitches I
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
