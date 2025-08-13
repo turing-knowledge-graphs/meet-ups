@@ -25,6 +25,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
 - *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
 - *An Explainable Framework for Grounding LLM-Based Radiology Report Generation in Medical Knowledge Graphs*. Faezeh Safari, University of Exeter.
+- *Modelling Ontologies via questions and modularization visualization for transport integration and decarbonisation*. Haoruo Zhao, TransiT Hub, University of Glasgow. 
 
 
 ## Tentative Agenda
