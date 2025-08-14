@@ -50,7 +50,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 13:30 - 14:15 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. Jesse Wright, The Open Data Institute.
 
-14:15 - 14:45 Next steps for the Interest Groups
+14:15 - 14:45 Next steps for the Interest Group
 
 14:45 - 15:15 Project Matchmaking around The Turing Grand Challenges (Working in Groups)
 <!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nigel D -->
