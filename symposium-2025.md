@@ -27,7 +27,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *An Explainable Framework for Grounding LLM-Based Radiology Report Generation in Medical Knowledge Graphs*. Faezeh Safari, University of Exeter.
 - *Modelling Ontologies via questions and modularization visualization for transport integration and decarbonisation*. Haoruo Zhao, TransiT Hub, University of Glasgow.
 - *Knowledge Graph Reasoning for Visual Relationship Detection*. Dave Herron, City St George's, University of London
-
+- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London
 
 ## Tentative Agenda
 
@@ -37,7 +37,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:45 - 10:30 **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. Paul Schofield, University of Cambridge.
 
-10:30 - 10:50 Short presentations/pitches I
+10:30 - 10:50 Short presentations/pitches I (2 max)
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
 - *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute.
 
@@ -46,6 +46,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 11:20 - 12:15 Short presentations/pitches II (5 max)
 - *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
+- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London
 
 12:15 - 13:30 Lunch and Networking
 
