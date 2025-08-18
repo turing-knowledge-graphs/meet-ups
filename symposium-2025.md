@@ -26,8 +26,10 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
 - *An Explainable Framework for Grounding LLM-Based Radiology Report Generation in Medical Knowledge Graphs*. Faezeh Safari, University of Exeter.
 - *Modelling Ontologies via questions and modularization visualization for transport integration and decarbonisation*. Haoruo Zhao, TransiT Hub, University of Glasgow.
-- *Knowledge Graph Reasoning for Visual Relationship Detection*. Dave Herron, City St George's, University of London
-- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London
+- *Knowledge Graph Reasoning for Visual Relationship Detection*. Dave Herron, City St George's, University of London.
+- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London.
+- *knowledge graphs for microbial fuel cells - compounding interactions*. David Quartey, Imperial College London.
+- *Using Knowledge Graphs to monitor clinician automation bias for responsible AI in healthcare*, Arpita Gado, University of Aberdeen.
 
 ## Tentative Agenda
 
