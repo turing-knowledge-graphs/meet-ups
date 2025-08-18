@@ -35,7 +35,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:30 - 09:45 Welcome by the IG Organisers
 
-09:45 - 10:30 **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. Paul Schofield, University of Cambridge.
+09:45 - 10:30 **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. [Paul Schofield](https://www.pdn.cam.ac.uk/directory/paul-schofield), University of Cambridge.
 
 10:30 - 10:50 Short presentations/pitches I (2 max)
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
@@ -50,20 +50,23 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 12:15 - 13:30 Lunch and Networking
 
-13:30 - 14:15 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. Jesse Wright, The Open Data Institute.
+13:30 - 15:00 Next steps for the Interest Group
+- Project Matchmaking around The Turing Grand Challenges
+- Continuing as a UK Network
+- **Keynote 2:** TBC
 
-14:15 - 14:45 Next steps for the Interest Group
-
-14:45 - 15:15 Project Matchmaking around The Turing Grand Challenges (Working in Groups)
+<!--14:45 - 15:15 Project Matchmaking around The Turing Grand Challenges
 <!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nigel D -->
 
-15:15 - 16:15 Poster session, Coffee and Networking
+15:00 - 16:00 Poster session, Coffee and Networking
 
-16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)
+16:00 - 16:45 **Keynote 3:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. [Jesse Wright](https://theodi.org/profile/jesse-wright/), The Open Data Institute.
+
+<!--16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)-->
 
 16:45 - 17:45 Session on Neurosymbolic AI for Medicine (Network of the Academy of Medical Sciences).
 - Introduction. Ernesto Jimenez-Ruiz. City St George's, University of London.
-- **Keynote 3** *TBC*
+- **Keynote 4**: [Efthymia Tsamoura](https://tsamoura.github.io/)
 
 17:45 - 18:00 Group Photo and Closing
 
