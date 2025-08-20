@@ -48,14 +48,16 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 11:20 - 12:15 **Short presentations/pitches II** (5 max)
 - *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
-- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London
+- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London.
 
 12:15 - 13:30 **Lunch and Networking**
 
-13:30 - 15:00 **Next steps for the Interest Group**
+13:30 - 13:35 **Group Photo**
+
+13:35 - 15:00 **Next steps for the Interest Group**
 - Project Matchmaking around The Turing Grand Challenges
 - Continuing as a UK Network
-- **Keynote 2:** TBC
+- **Keynote 2:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof.Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh.
 
 <!--14:45 - 15:15 Project Matchmaking around The Turing Grand Challenges
 <!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nigel D -->
@@ -68,9 +70,9 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 16:45 - 17:45 **Session on Neurosymbolic AI for Medicine** (Network of the Academy of Medical Sciences).
 - Introduction. Ernesto Jimenez-Ruiz. City St George's, University of London.
-- **Keynote 4**: [Efthymia Tsamoura](https://tsamoura.github.io/) (Huawei UK Research)
+- **Keynote 4**: [Efthymia Tsamoura](https://tsamoura.github.io/), Huawei UK Research.
 
-17:45 - 18:00 **Group Photo and Closing**
+17:45 - 18:00 **Closing**
 
 18:00 - **Drinks and more Networking** at [Dame Alice Owen](https://maps.app.goo.gl/JFGwGSVFZFFf9LQa6)
 
