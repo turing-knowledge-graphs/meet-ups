@@ -30,6 +30,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London.
 - *knowledge graphs for microbial fuel cells - compounding interactions*. David Quartey, Imperial College London.
 - *Using Knowledge Graphs to monitor clinician automation bias for responsible AI in healthcare*, Arpita Gado, University of Aberdeen.
+- *Using GraphRAG to Upscale Climate Services*, Hailun Xie, Anrijs Abele, Biswas, Arjun, Hang Dong, Fai Fung, Hywel Williams, University of Exeter & Met Office.
 
 ## Tentative Agenda
 
