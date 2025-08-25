@@ -51,11 +51,11 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
 - *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London.
 
-12:15 - 13:30 **Lunch and Networking**
+12:15 - 12:20 **Group Photo**
 
-13:30 - 13:35 **Group Photo**
+12:20 - 13:30 **Lunch and Networking**
 
-13:35 - 15:00 **Next steps for the Interest Group**
+13:30 - 15:00 **Next steps for the Interest Group**
 - Project Matchmaking around The Turing Grand Challenges
 - Continuing as a UK Network
 - **Keynote 2:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof.Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh.
