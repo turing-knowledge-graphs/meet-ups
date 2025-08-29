@@ -4,7 +4,7 @@
 - **Where:** [City St George's, University of London](https://www.citystgeorges.ac.uk/), Lecture Theatre C309, Tait Building. How to get to [Tait building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9). How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
 - **Format:** up to 100 participants <ins>in person</ins>. 
 - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs) (only for in-person attendance).
-- **Sponsors:** [Mind-Alliance Systems](https://www.mind-alliance.com/)
+- **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/)
 <!--- **Photos:** TBA -->
 <!-- **Call for presentations and posters:** (now closed)
   - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
@@ -32,7 +32,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *Using Knowledge Graphs to monitor clinician automation bias for responsible AI in healthcare*, Arpita Gado, University of Aberdeen.
 - *Using GraphRAG to Upscale Climate Services*, Hailun Xie, Anrijs Abele, Biswas, Arjun, Hang Dong, Fai Fung, Hywel Williams, University of Exeter & Met Office.
 
-## Tentative Agenda
+## Agenda
 
 09:00 - 09:30 **Coffee and poster set-up**
 
@@ -40,13 +40,13 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:45 - 10:30 **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. [Paul Schofield](https://www.pdn.cam.ac.uk/directory/paul-schofield), University of Cambridge.
 
-10:30 - 10:50 Peter Crocker **Oxford Semantic Technologies** (Sponsor)
+10:30 - 10:50 [Peter Crocker](https://www.linkedin.com/in/peter-crocker/), **Oxford Semantic Technologies** (Sponsor)
 
 10:50 - 11:20 **Coffee and Networking**
 
 11:20 - 12:15 **Short presentations/pitches** (10 min inclusing questions)
 - David Kamien,  **Mind-Alliance Systems** (Sponsor)
-- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis*. David R Willé, GSK R&D.
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
 - *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London.
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
