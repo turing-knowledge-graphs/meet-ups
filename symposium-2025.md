@@ -23,7 +23,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture*. Alisa Holm, University of Aberdeen.
 - *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute.
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
-- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis (TBC)*. David R Willé, GSK R&D.
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis*. David R Willé, GSK R&D.
 - *An Explainable Framework for Grounding LLM-Based Radiology Report Generation in Medical Knowledge Graphs*. Faezeh Safari, University of Exeter.
 - *Modelling Ontologies via questions and modularization visualization for transport integration and decarbonisation*. Haoruo Zhao, TransiT Hub, University of Glasgow.
 - *Knowledge Graph Reasoning for Visual Relationship Detection*. Dave Herron, City St George's, University of London.
