@@ -41,7 +41,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 09:45 - 10:30 **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. [Paul Schofield](https://www.pdn.cam.ac.uk/directory/paul-schofield), University of Cambridge.
 
 10:30 - 10:50 [Peter Crocker](https://www.linkedin.com/in/peter-crocker/), **Oxford Semantic Technologies** (Sponsor)
-- From research to reality bringing knowledge-based AI to millions of devices.
+- *From research to reality bringing knowledge-based AI to millions of devices*.
 
 10:50 - 11:20 **Coffee and Networking**
 
