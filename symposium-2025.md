@@ -60,7 +60,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 13:30 - 15:00 **Next steps for the Interest Group**
 - Project Matchmaking around The Turing Grand Challenges
 - Continuing as a UK Network
-- **Keynote 2:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof.Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh.
+- **Keynote 2:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof. Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh.
 
 <!--14:45 - 15:15 Project Matchmaking around The Turing Grand Challenges
 <!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nigel D -->
