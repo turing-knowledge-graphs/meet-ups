@@ -7,7 +7,7 @@
   - [Tentative Agenda](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/symposium-2025.md)
   - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs) (only for in-person attendance).
   - **Live-stream:** [access link](https://echo360.org.uk/section/88ad5e90-d7d6-4b75-92b6-6b31bd706def/public) (questions via the slack channel).
-  - **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/)
+  - **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/), [AMS Network on Neurosymbolic AI for Medicine](https://acmedsci.ac.uk/)
           
 
 ### Last event: 
