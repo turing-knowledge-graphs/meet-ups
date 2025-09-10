@@ -4,7 +4,7 @@
 - **Where:** [City St George's, University of London](https://www.citystgeorges.ac.uk/), Lecture Theatre C309, Tait Building. How to get to [Tait building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9). How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
 - **Format:** up to 100 participants <ins>in person</ins>. 
 - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs) (only for in-person attendance).
-- **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/)
+- **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/), [AMS Network on Neurosymbolic AI for Medicine](https://acmedsci.ac.uk/)
 <!--- **Photos:** TBA -->
 <!-- **Call for presentations and posters:** (now closed)
   - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
@@ -71,7 +71,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 <!--16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)-->
 
-16:45 - 17:45 **Session on Neurosymbolic AI for Medicine** (Network of the Academy of Medical Sciences).
+16:45 - 17:45 **Session on Neurosymbolic AI for Medicine** (Network of the [UK Academy of Medical Sciences](https://acmedsci.ac.uk/)).
 - Introduction. Ernesto Jimenez-Ruiz. City St George's, University of London.
 - **Keynote 4**: [Efthymia Tsamoura](https://tsamoura.github.io/), Huawei UK Research.
 
