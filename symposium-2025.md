@@ -21,7 +21,6 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 ## Posters
 - *Provenance knowledge graphs for transparent carbon footprint reporting in agriculture*. Alisa Holm, University of Aberdeen.
-- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute.
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
 - *RDF meets R: towards an automated event driven distributed platform for reporting and analysis*. David R Willé, GSK R&D.
 - *An Explainable Framework for Grounding LLM-Based Radiology Report Generation in Medical Knowledge Graphs*. Faezeh Safari, University of Exeter.
@@ -32,20 +31,20 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *Using Knowledge Graphs to monitor clinician automation bias for responsible AI in healthcare*, Arpita Gado, University of Aberdeen.
 - *Using GraphRAG to Upscale Climate Services*, Hailun Xie, Anrijs Abele, Biswas, Arjun, Hang Dong, Fai Fung, Hywel Williams, University of Exeter & Met Office.
 
-## Agenda
+## Agenda (*)
 
 09:00 - 09:30 **Coffee and poster set-up**
 
 09:30 - 09:45 **Welcome by the IG Organisers**
 
-09:45 - 10:30 **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. [Paul Schofield](https://www.pdn.cam.ac.uk/directory/paul-schofield), University of Cambridge.
+09:45 - 10:30 **Keynote 1:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof. Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh.
 
 10:30 - 10:50 [Peter Crocker](https://www.linkedin.com/in/peter-crocker/), **Oxford Semantic Technologies** (Sponsor)
 - *From research to reality bringing knowledge-based AI to millions of devices*.
 
 10:50 - 11:20 **Coffee and Networking**
 
-11:20 - 12:15 **Short presentations/pitches** (10 min inclusing questions)
+11:20 - 12:30 **Short presentations/pitches** (10 min including questions)
 - David Kamien,  **Mind-Alliance Systems** (Sponsor)
 - *RDF meets R: towards an automated event driven distributed platform for reporting and analysis*. David R Willé, GSK R&D.
 - *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
@@ -53,31 +52,38 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
 - *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute.
 
-12:15 - 12:20 **Group Photo**
+12:30 - 12:35 **Group Photo**
 
-12:20 - 13:30 **Lunch and Networking**
+12:35 - 13:45 **Lunch and Networking**
 
-13:30 - 15:00 **Next steps for the Interest Group**
-- Project Matchmaking around The Turing Grand Challenges
+13:45 - 14:45 **Next steps for the Interest Group**
 - Continuing as a UK Network
-- **Keynote 2:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof. Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh.
+- Project Matchmaking around The Turing Grand Challenges
 
 <!--14:45 - 15:15 Project Matchmaking around The Turing Grand Challenges
 <!-- - Support for seed-corn projects in the area of KGs and ontologies and their applications (GCHQ). Nigel D -->
 
-15:00 - 16:00 **Poster session, Coffee and Networking**
+14:45 - 16:00 **Poster session, Coffee and Networking**
 
-16:00 - 16:45 **Keynote 3:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. [Jesse Wright](https://theodi.org/profile/jesse-wright/), The Open Data Institute.
+16:00 - 16:45 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. [Jesse Wright](https://theodi.org/profile/jesse-wright/), The Open Data Institute.
 
 <!--16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)-->
 
 16:45 - 17:45 **Session on Neurosymbolic AI for Medicine** (Network of the [UK Academy of Medical Sciences](https://acmedsci.ac.uk/)).
 - Introduction. Ernesto Jimenez-Ruiz. City St George's, University of London.
-- **Keynote 4**: [Efthymia Tsamoura](https://tsamoura.github.io/), Huawei UK Research.
+- **Keynote 3**: [Efthymia Tsamoura](https://tsamoura.github.io/), Huawei UK Research.
 
 17:45 - 18:00 **Closing**
 
 18:00 - **Drinks and more Networking** at [Dame Alice Owen](https://maps.app.goo.gl/JFGwGSVFZFFf9LQa6)
+
+
+<br>
+<br>
+
+**(*)** Note that the original keynote 1 has been cancelled due to sickness.  
+- **Keynote 1:** *Bridging Knowledge Representation and Causal Inference; discriminating disease progression and adverse drug effects*. [Paul Schofield](https://www.pdn.cam.ac.uk/directory/paul-schofield), University of Cambridge.
+
 
 <!--
 <br>
