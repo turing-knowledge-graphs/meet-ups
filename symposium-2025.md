@@ -5,13 +5,13 @@
 - **Format:** up to 100 participants <ins>in person</ins>. 
 - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs) (only for in-person attendance).
 - **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/), [AMS Network on Neurosymbolic AI for Medicine](https://acmedsci.ac.uk/)
-**Photos:** [Google Abum](https://photos.app.goo.gl/LRjc5WJcmTP63RAj6)
+- **Photos:** [Google Abum](https://photos.app.goo.gl/LRjc5WJcmTP63RAj6)
 <!-- **Call for presentations and posters:** (now closed)
   - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
   - [Poster presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
 -->
-**Live-stream and recording:** [access link](https://echo360.org.uk/section/88ad5e90-d7d6-4b75-92b6-6b31bd706def/public) (questions via the slack channel).
-**Slides and posters**: [public material](https://drive.google.com/drive/folders/1JMJ9HPpGrItFJ3GPd44rzYUWoAitCQ3K?usp=sharing)
+- **Live-stream and recording:** [access link](https://echo360.org.uk/section/88ad5e90-d7d6-4b75-92b6-6b31bd706def/public) (questions via the slack channel).
+- **Slides and posters**: [public material](https://drive.google.com/drive/folders/1JMJ9HPpGrItFJ3GPd44rzYUWoAitCQ3K?usp=sharing)
 
 Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 - **Defence and national security**
