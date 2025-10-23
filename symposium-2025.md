@@ -4,7 +4,7 @@
 - **Where:** [City St George's, University of London](https://www.citystgeorges.ac.uk/), Lecture Theatre C309, Tait Building. How to get to [Tait building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9). How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
 - **Format:** up to 100 participants <ins>in person</ins>. 
 - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs) (only for in-person attendance).
-- **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/), [AMS Network on Neurosymbolic AI for Medicine](https://acmedsci.ac.uk/)
+- **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/), [AMS Network on Neurosymbolic AI for Medicine](https://neuro-symbolic-ai-medicine.github.io/)
 - **Photos:** [Google Abum](https://photos.app.goo.gl/LRjc5WJcmTP63RAj6)
 - **Live-stream and recording:** [access link](https://echo360.org.uk/section/88ad5e90-d7d6-4b75-92b6-6b31bd706def/public) (questions via the slack channel).
 - **Slides and posters**: [public material](https://drive.google.com/drive/folders/1JMJ9HPpGrItFJ3GPd44rzYUWoAitCQ3K?usp=sharing)
