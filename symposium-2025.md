@@ -6,10 +6,6 @@
 - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs) (only for in-person attendance).
 - **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/), [AMS Network on Neurosymbolic AI for Medicine](https://acmedsci.ac.uk/)
 - **Photos:** [Google Abum](https://photos.app.goo.gl/LRjc5WJcmTP63RAj6)
-<!-- **Call for presentations and posters:** (now closed)
-  - [Poster presentation and potential sponsorship from industry](https://forms.gle/8M8Je79aHuz9Abb48) (please reach for additional details).
-  - [Poster presentation from academia](https://forms.gle/aYktpvP6CurTyzhMA).
--->
 - **Live-stream and recording:** [access link](https://echo360.org.uk/section/88ad5e90-d7d6-4b75-92b6-6b31bd706def/public) (questions via the slack channel).
 - **Slides and posters**: [public material](https://drive.google.com/drive/folders/1JMJ9HPpGrItFJ3GPd44rzYUWoAitCQ3K?usp=sharing)
 
@@ -35,9 +31,9 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:00 - 09:30 **Coffee and poster set-up**
 
-09:30 - 09:45 **Welcome by the IG Organisers**
+09:30 - 09:45 **Welcome by the IG Organisers**  [(slides)](https://drive.google.com/file/d/1az2GmjXvn2F9Q9ZMgr7XIlJ8W9Tdl9xf/view?usp=drive_link)
 
-09:45 - 10:30 **Keynote 1:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof. Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh.
+09:45 - 10:30 **Keynote 1:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof. Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh. [(slides)]()
 
 10:30 - 10:50 [Peter Crocker](https://www.linkedin.com/in/peter-crocker/), **Oxford Semantic Technologies** (Sponsor)
 - *From research to reality bringing knowledge-based AI to millions of devices*.
@@ -46,11 +42,11 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 11:20 - 12:30 **Short presentations/pitches** (10 min including questions)
 - [David Kamien](https://www.linkedin.com/in/davidkamien/),  **Mind-Alliance Systems** (Sponsor)
-- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis*. David R Willé, GSK R&D.
-- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading.
-- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London.
-- *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics.
-- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute.
+- *RDF meets R: towards an automated event driven distributed platform for reporting and analysis*. David R Willé, GSK R&D. [(slides)](https://drive.google.com/file/d/1CPIIVfRalz0IYiCN80fhiYvr0ra8QLYi/view?usp=drive_link)
+- *On Graph-ML applied to biodiversity*. Alan Guedes, University of Reading. [(slides)](https://drive.google.com/file/d/1xDwyp18j1lk-yqUu2BM9nOVVRjkSuter/view?usp=drive_link)
+- *Knowledge Representation for Infection Transmission Risk Prediction*. James Boyd, Tim Murdoch, Martin Pipe, and Ernesto Jimenez-Ruiz, Proxximos Ltd and City St George's, University of London. [(slides)](https://docs.google.com/presentation/d/1u-ri4jDNp8GXsbr4e2k-SICp02UG2MeT/edit?usp=sharing&ouid=107320364354662189717&rtpof=true&sd=true)
+- *Knowledge Graphs as Pillars for Agentic AI in the real world*. Dr Juraj Mavracic, Symbiotic Dynamics. [(slides)](https://drive.google.com/file/d/1q_zLzU_Y_TjK7izbzSagT0mLzu2XeZ0q/view?usp=drive_link)
+- *Towards Agentic Cardiac Digital Twins: The Role of Digital Threads*. Xiaoxue Shen, The Alan Turing Institute. [(slides)](https://drive.google.com/file/d/1jz5F9c2UE68HKF4x1D2ZHfDZMOORpJ-o/view?usp=drive_link)
 
 12:30 - 12:35 **Group Photo**
 
@@ -65,7 +61,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 14:45 - 16:00 **Poster session, Coffee and Networking**
 
-16:00 - 16:45 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. [Jesse Wright](https://theodi.org/profile/jesse-wright/), The Open Data Institute.
+16:00 - 16:45 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. [Jesse Wright](https://theodi.org/profile/jesse-wright/), The Open Data Institute. [(slides)]()
 
 <!--16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)-->
 
