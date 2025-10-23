@@ -33,7 +33,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 09:30 - 09:45 **Welcome by the IG Organisers**  [(slides)](https://drive.google.com/file/d/1az2GmjXvn2F9Q9ZMgr7XIlJ8W9Tdl9xf/view?usp=drive_link)
 
-09:45 - 10:30 **Keynote 1:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof. Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh. [(slides)]()
+09:45 - 10:30 **Keynote 1:** *Sub-symbolic support for symbolic inference in healthcare at UK scale.* [Prof. Dave Robertson](https://edwebprofiles.ed.ac.uk/profile/dave-robertson), University of Edinburgh. [(slides)](https://drive.google.com/file/d/1_E8tmTLbH6QGHjyoPsTyoXGA_ifndLTS/view?usp=drive_link)
 
 10:30 - 10:50 [Peter Crocker](https://www.linkedin.com/in/peter-crocker/), **Oxford Semantic Technologies** (Sponsor)
 - *From research to reality bringing knowledge-based AI to millions of devices*.
@@ -61,7 +61,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 14:45 - 16:00 **Poster session, Coffee and Networking**
 
-16:00 - 16:45 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. [Jesse Wright](https://theodi.org/profile/jesse-wright/), The Open Data Institute. [(slides)]()
+16:00 - 16:45 **Keynote 2:** *This is for everyone: ODI's vision and roadmap for the future of the Solid Project*. [Jesse Wright](https://theodi.org/profile/jesse-wright/), The Open Data Institute. [(slides)](https://drive.google.com/file/d/15W72q_FwOkQ957wuq44HfEyrFQ7a60Yv/view?usp=drive_link)
 
 <!--16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)-->
 
