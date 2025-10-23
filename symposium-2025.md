@@ -65,7 +65,7 @@ Focus on [The Turing Grand Challenges](https://www.turing.ac.uk/research):
 
 <!--16:15 - 16:45 Project Matchmaking around The Turing Grand Challenges (Presentation from Groups)-->
 
-16:45 - 17:45 **Session on Neurosymbolic AI for Medicine** (Network of the [UK Academy of Medical Sciences](https://acmedsci.ac.uk/)).
+16:45 - 17:45 **Session on Neurosymbolic AI for Medicine** ([Network of the UK Academy of Medical Sciences](https://neuro-symbolic-ai-medicine.github.io/)).
 - Introduction. Ernesto Jimenez-Ruiz. City St George's, University of London.
 - **Keynote 3**: [Efthymia Tsamoura](https://tsamoura.github.io/), Huawei UK Research.
 
