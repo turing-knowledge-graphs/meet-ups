@@ -1,5 +1,12 @@
 ### Upcoming events:
-- 4rd Symposium **September 12 2025**. (10:00am-6:00pm BST), at City, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
+
+- The UK Knowledge Graphs Interest Group is relaunching, with a new home at [the Open Data Institute (ODI)](https://theodi.org/)!
+  * 1st meet-up on **September 25, 2026 (12-1pm)**: Register [here](https://theodi.org/news-and-events/events/a-new-partnership-for-knowledge-innovation/).
+  * We are also planning an in-person symposium on **November 13** at [City St George's, University of London](https://www.citystgeorges.ac.uk/).
+  
+
+### Symposiums
+- 4rd Symposium **September 12 2025**. (10:00am-6:00pm BST), at City St George's, University of London, Lecture Theatre C309, [Tait Building](https://goo.gl/maps/DkxQcdR5fSyuy1hy9).  How to get to the [C309](https://bit.ly/symposium-video-getting-to-c309) area.
   - Format: in person (around 100 participants)
   - Topics:
     * Focus on The Turing Grand Challenges.
@@ -8,18 +15,6 @@
   - **Registration:** £10 students, £20 regular via [City estore](https://www.citystgeorges.ac.uk/news-and-events/events/2025/september/4th-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs) (only for in-person attendance).
   - **Live-stream and recording:** [access link](https://echo360.org.uk/section/88ad5e90-d7d6-4b75-92b6-6b31bd706def/public) (questions via the slack channel).
   - **Sponsors:** [Oxford Semantic Technologies](https://www.oxfordsemantic.tech/), [Mind-Alliance Systems](https://www.mind-alliance.com/), [AMS Network on Neurosymbolic AI for Medicine](https://neuro-symbolic-ai-medicine.github.io/)
-          
-
-### Last event: 
-
-- 10th Meet-up:  **Novemnber 29th 2024** (9:30-16:00 GMT), **University of Edinburgh**.
-    - **Registration** via this [form](https://forms.office.com/e/kQtp2Q5Kr0)  (in-person attendance).
-    - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md).
-    - [Photos](https://photos.app.goo.gl/2scWBxFabNY3K3h19)
-          
-
-
-### Symposiums
 - 3rd Symposium on Knowlkedge Graphs in the Wild (Turing AI UK Fringe event): **March 25th 2024**, **University of Liverpool, UK**. [G-Flex space](https://www.liverpool.ac.uk/central-teaching-hub/facilities/gflex-teaching-space/).
     - Format: in person (around 100 participants)
     <!-- Registration: £10 students, £20 regular via [City estore](https://estore.city.ac.uk/product-catalogue/conference-events/conferences/3rd-annual-symposium-of-the-turing-interest-group-on-knowledge-graphs-25032024).-->
@@ -46,6 +41,7 @@
 - 10th Meet-up:  **Novemnber 29th 2024** (9:30-16:00 GMT), **University of Edinburgh**.
     - **Registration** via this [form](https://forms.office.com/e/kQtp2Q5Kr0)  (in-person attendance).
     - Full agenda [here](https://github.com/turing-knowledge-graphs/meet-ups/blob/main/agenda-10th-meetup.md).
+    - [Photos](https://photos.app.goo.gl/2scWBxFabNY3K3h19)
           
 
 - 9th Meet-up: **May 20th 2024** (3:30pm-6pm BST) at City, University of London, Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  Directions to get to the [Lecture Theather B200](https://drive.google.com/file/d/1IZJJIYSBwjitvBUa8bKIZ38fEwwWK95f/view?usp=sharing).
