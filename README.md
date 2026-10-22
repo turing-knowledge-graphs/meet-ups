@@ -1,4 +1,4 @@
-NEW WEB: [https://uk-knowledge-graphs.github.io/](https://uk-knowledge-graphs.github.io/)
+**NEW WEB:** [https://uk-knowledge-graphs.github.io/](https://uk-knowledge-graphs.github.io/)
 
 ### Upcoming events:
 
