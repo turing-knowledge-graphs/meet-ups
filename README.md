@@ -1,3 +1,5 @@
+NEW WEB: [https://uk-knowledge-graphs.github.io/](https://uk-knowledge-graphs.github.io/)
+
 ### Upcoming events:
 
 - The UK Knowledge Graphs Interest Group is relaunching, with a new home at [the Open Data Institute (ODI)](https://theodi.org/)!
