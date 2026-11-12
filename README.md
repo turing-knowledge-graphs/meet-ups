@@ -2,6 +2,8 @@
 
 ### Upcoming events:
 
+**Check updates:** [https://uk-knowledge-graphs.github.io/events/](https://uk-knowledge-graphs.github.io/events/)
+
 - The UK Knowledge Graphs Interest Group is relaunching, with a new home at [the Open Data Institute (ODI)](https://theodi.org/)!
   * 1st meet-up on **September 25, 2026 (12-1pm)**: Register [here](https://theodi.org/news-and-events/events/a-new-partnership-for-knowledge-innovation/).
   * We are also planning an in-person symposium on **November 13** at [City St George's, University of London](https://www.citystgeorges.ac.uk/).
